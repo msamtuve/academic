@@ -1,0 +1,139 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: Toggle navigation
+
+- id: table_of_contents
+  translation: Innehållsförteckning
+
+# General
+
+- id: related
+  translation: Relaterad
+
+- id: minute_read
+  translation: min läst
+
+# Buttons
+
+- id: btn_preprint
+  translation: Preprint
+
+- id: btn_pdf
+  translation: PDF
+
+- id: btn_cite
+  translation: Citera
+
+- id: btn_slides
+  translation: Slides
+
+- id: btn_video
+  translation: Video
+
+- id: btn_code
+  translation: Kod
+
+- id: btn_dataset
+  translation: Dataset
+
+- id: btn_project
+  translation: Projekt
+
+- id: btn_poster
+  translation: Poster
+
+- id: btn_source
+  translation: Källdocument
+
+- id: btn_copy
+  translation: Kopia
+
+- id: btn_download
+  translation: Ladda ned
+
+# About widget
+
+- id: interests
+  translation: Intressen
+
+- id: education
+  translation: Utbildning
+
+# Publications widget
+
+- id: more_publications
+  translation: Mer publikationer
+
+# Posts widget
+
+- id: continue_reading
+  translation: FORTSÄTT LÄSA
+
+- id: more_posts
+  translation: Fler inlägg
+# Talks widget
+
+- id: more_talks
+  translation: More Talks
+
+# Publication/Talk details
+
+- id: abstract
+  translation: Abstract
+
+- id: publication
+  translation: Publikation
+
+- id: publication_type
+  translation: Typ
+
+- id: date
+  translation: Datum
+
+- id: last_updated
+  translation: Senast uppdaterad
+
+- id: links
+  translation: Länkar
+
+- id: event
+  translation: Event
+
+- id: location
+  translation: Plats
+
+# Filtering
+
+- id: filter_by_type
+  translation: Filter by type
+
+- id: filter_all
+  translation: All
+
+# Project details
+
+- id: open_project_site
+  translation: Gå till Project Site
+
+# Default node titles
+
+- id: posts
+  translation: Posts
+
+- id: publications
+  translation: Publikationer
+
+- id: talks
+  translation: Samtal, föredrag och seminarier
+
+- id: projects
+  translation: Projekt
+
+# Error 404
+
+- id: page_not_found
+  translation: Page not found
+
+- id: 404_recommendations
+  translation: Perhaps you were looking for one of these?

@@ -1,0 +1,84 @@
+---
+title: "Anteckningar rörande blogdown"
+author: "Magnus"
+date: '2018-01-08'
+output: html_notebook
+---
+
+
+
+# Getting started
+
+```{r}
+install.packages("blogdown")
+blogdown::install_hugo()
+blogdown::update_hugo()
+```
+
+OK. Nu är jag igång.
+
+### Preview site
+Jag kan skapa en ny site med *blogdown::new_site()*. Men det vill jag inte nu.
+Hur gör jag för att öppna/ladda en existerande site jag redan gjort?
+```{r}
+blogdown::serve_site()
+```
+Nu har min site publiserat lokalt.
+
+Om inte siten uppdaderas automatisk när jag sparar filen i Rstudio så kolla: options(servr.daemon = TRUE).
+- men var hittar jag detta?
+
+### Theme - academic
+Jag använder academic.
+- Ref: https://github.com/gcushen/hugo-academic
+
+
+## Edit site - config.toml
+Grundinställningar görs i *config.toml*.
+
+To edit a website (https://bookdown.org/yihui/blogdown/workflow.html):
+1. Click the RStudio addin “Serve Site” to preview the site in RStudio Viewer. This only needs to be done once every time you open the RStudio project or restart your R session. Do not click the Knit button on the RStudio toolbar.
+2. Use the “New Post” addin to create a new post or page, then start writing the content.
+3. Use the “Update Metadata” addin to modify the YAML metadata if necessary.
+
+
+## Publish site
+
+To publish a website if you are not familiar with GIT or GitHub:
+
+1. Restart the R session, and run blogdown::hugo_build(). You should get a public/ directory under the root directory of your project.
+2. Log into https://www.netlify.com (you can use a GitHub account if you have one). If this is the first time you have published this website, you can create a new site, otherwise you may update the existing site you created last time. You can drag and drop the public/ folder from your file viewer to the indicated area on the Netlify web page, where it says “Drag a folder with a static site here.”
+3.Wait for a few seconds for Netlify to deploy the files, and it will assign a random subdomain of the form random-word-12345.netlify.com to you. You can (and should) change this random subdomain to a more meaningful one if it is still available.
+
+It can be much easier to publish a website if you are familiar with GIT and GitHub. We **recommend that you create a new site on Netlify from your GitHub repository** that contains the source files of your website, so that you can enjoy the benefits of continuous deployment instead of manually uploading the public/ folder every time. With this approach, you do not need to run blogdown::hugo_build() locally, because the website can be built on Netlify via Hugo. See Chapter 3 for more information.
+
+### Getting site from RStudio to Github
+En bra resurs, tutorial: https://notes.peter-baumgartner.net/tutorial/blogdown-tutorial-part-1/
+**RStudio, Git and GitHub**: http://r-pkgs.had.co.nz/git.html#git-init
+
+- Creating a new GitHub repository: detta har jag redan gjort.
+- Tell Git your name and email address. These are used to label each commit so that when you start collaborating with others, it’s clear who made each change. In the shell, run:
+- **git config --global user.name "Magnus Tuvendal"**
+- **git config --global user.email "Magnus.tuvendal@gmail.com"**
+- RStudio is Tools > Shell. 
+If you’ve never used the shell before, I recommend playing Terminus: http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html.
+
+Kan testa med **git config --global --list**:
+>user.name=Magnus Tuvendal
+>user.email=magnus.tuvendal@gmail.com
+>MacBookPro-47:Academic_blogdown magtuv$ 
+
+From R, you can check if you already have an SSH key-pair by running:
+```{r}
+file.exists("~/.ssh/id_rsa.pub")
+```
+
+Problem - jag kan inte välja i Tools/Project options/Git/versions control
+Här finns bara alternativet **none**- Ska här välja **Git**.
+Testar att ändra: Preferences/Git/git executaple. Ändrar path till: /usr/local/git/bin/git
+
+Nu fungerar det! Har aktiverat Git i "Project options"!
+
+
+
+### Getting site from Github to Netlify
