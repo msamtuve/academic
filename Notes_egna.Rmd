@@ -127,7 +127,13 @@ blogdown::serve_site()
 
 Så nu borde allt i public inte läggas över på Github. Detta behövs inte eftersom Netlify skapar min site utifrån mina andra filer. Kan då ändra inkrementellt via github. Alternativet är att lokalt skapa en /public och dra den till en repository som visar en statisk site.
 
-
+## Push to Github
+- välj upp-pilen i git pane.
+- Upptäcket att inget händer - blir inte uppdaterat på Github - OM jag inte också skriver in text i rutan Commit/Commit-message!
 
  
 ### Getting site from Github to Netlify
+
+Viktigt att lägga in en version av Hugo. Görs som en variabel i Netlify.
+
+OK - Netlify jobbar men siten blir inte publiserad.
