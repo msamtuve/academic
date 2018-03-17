@@ -5,7 +5,7 @@ date: '2018-01-08'
 output: html_notebook
 ---
 
-
+testtext
 
 # Getting started
 
@@ -72,13 +72,62 @@ From R, you can check if you already have an SSH key-pair by running:
 ```{r}
 file.exists("~/.ssh/id_rsa.pub")
 ```
-
+### Create a local Git repository
 Problem - jag kan inte välja i Tools/Project options/Git/versions control
 Här finns bara alternativet **none**- Ska här välja **Git**.
 Testar att ändra: Preferences/Git/git executaple. Ändrar path till: /usr/local/git/bin/git
 
 Nu fungerar det! Har aktiverat Git i "Project options"!
+Har nu en *git pane* i RStudio
+
+### bring these folders and files under version control
+- I Git pane så kryssar jag i under *Staged*. Får då status A på paths.
+- click in the Commit tab opens up a new window where you must write a message. This first (e.g.initial) commit will bring all the files under version control.
+
+En konsekvens är att nu har alla paths i Git pane försvunnit! kanske för att de nu är sparade och inte ändrade.
+
+Japp - så är det. Sparade nu min Notes_egna_rmd och då dyker den upp i Git pane.
+
+### Set up github repository. 
+Väljer:
+- …or push an existing repository from the command line:
+> git remote add origin git@github.com:msamtuve/academic.git
+> git push -u origin master
+
+Och NU är kopplingen mellan mitt project i RStudio och Github etablerad.
+
+### Setting global options in your R startup profile file
+```{r}
+file.edit(".Rprofile")
+```
+Nu har jag gjort det.
+Detta initieras varje gång jag startar detta projekt: 
+>options(servr.daemon = TRUE, 
+        blogdown.author = "Magnus Tuvendal", 
+        blogdown.ext=".md", 
+        blogdown.subdir="post", 
+        blogdown.yaml.empty=TRUE)
+        
+
+Har nu kommit fram till: https://notes.peter-baumgartner.net/tutorial/blogdown-tutorial-part-3/
+
+
+### Titta på min site lokalt
+Hmm - nu fungerar inte detta.
+Jo - men var tvungen att göra en refresh.
+```{r}
+blogdown::serve_site()
+```
+
+## .gitignore
+Öppnar .gitignore. Ligger bland mina filer. 
+Ändrar denna och lägger till:
+-  # ignore all files in the public/ directory
+-  public/
+
+Så nu borde allt i public inte läggas över på Github. Detta behövs inte eftersom Netlify skapar min site utifrån mina andra filer. Kan då ändra inkrementellt via github. Alternativet är att lokalt skapa en /public och dra den till en repository som visar en statisk site.
 
 
 
+ 
 ### Getting site from Github to Netlify
