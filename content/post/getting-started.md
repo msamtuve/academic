@@ -6,7 +6,7 @@ tags = ["academic", "hugo"]
 title = "Getting started with the Academic framework for Hugo"
 math = true
 summary = """
-Jag använder RStudio med Blogdown, Hugo, Github och Netlify för att skapa och lägga ut denna site. Lämnar kvar denna post av tacksamhet till skaparna. Create a beautifully simple personal or academic website.
+Lämnar kvar denna post av tacksamhet till skaparna.
 """
 
 [header]
