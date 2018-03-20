@@ -22,7 +22,7 @@ library()
 
 Tror man måste göra så här:
 
-- ändra i content
+- ändra i innehåll, lägga till delete (tar bort sidor i Finder. Obs - blir error i deployment om borttagen sida refereras till på andra sidor!)
 - markera i Git-pane
 - commit
 - commit notes
@@ -32,6 +32,10 @@ Tror man måste göra så här:
 Inget händer. Loggar in på Netlify. Tittar på inställningar. Den säger att siten uppdaterades för 1 min sedan. 
 
 Och nu ser jag ändringar. Är det en lagg. Kan det ta några minuter innan webb-version ändras??
+
+Kan titta här: https://app.netlify.com/sites/magnus-tuvendal/deploys
+Ser om build fungerar.
+
 
 ## Lite tips på texter och stilar
 
