@@ -7,8 +7,40 @@ output: html_notebook
 
 testtext
 
-# Getting started
 
+
+# Uppdatera löpande
+Nedan är hur jag fick igång det hela. Men hur gör jag nu för att:
+
+- ändra i RStudio
+- uppdatera GitHib
+- Se ny version på webben via Netlify
+
+```{r}
+library()
+```
+
+Tror man måste göra så här:
+
+- ändra i content
+- markera i Git-pane
+- commit
+- commit notes
+- commit
+- Push
+
+Inget händer. Loggar in på Netlify. Tittar på inställningar. Den säger att siten uppdaterades för 1 min sedan. 
+
+Och nu ser jag ändringar. Är det en lagg. Kan det ta några minuter innan webb-version ändras??
+
+
+```{r}
+hugo new project/my-project-name.md
+```
+
+
+
+# Getting started
 ```{r}
 install.packages("blogdown")
 blogdown::install_hugo()
@@ -16,15 +48,6 @@ blogdown::update_hugo()
 ```
 
 OK. Nu är jag igång.
-
-## Uppdatera löpande
-Nedan är hur jag fick igång det hela. Men hur gör jag nu för att:
-
-- ändra i RStudio
-- uppdatera GitHib
-- Se ny version på webben via Netlify
-
-
 
 ## Preview site
 Jag kan skapa en ny site med *blogdown::new_site()*. Men det vill jag inte nu.
