@@ -33,11 +33,18 @@ Inget händer. Loggar in på Netlify. Tittar på inställningar. Den säger att 
 
 Och nu ser jag ändringar. Är det en lagg. Kan det ta några minuter innan webb-version ändras??
 
+## Lite tips på texter och stilar
 
-```{r}
-hugo new project/my-project-name.md
-```
+#### Varningsruta
+Kan varna genom en ruta i röd färg med vit text genom dessa taggar.
+{{% alert warning %}}
+bla bla…
+{{% /alert %}}
 
+#### Alert-ruta
+{{% alert note %}}
+bla, bla...
+{{% /alert %}}
 
 
 # Getting started
