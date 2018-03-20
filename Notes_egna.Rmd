@@ -36,6 +36,16 @@ Och nu ser jag ändringar. Är det en lagg. Kan det ta några minuter innan webb
 Kan titta här: https://app.netlify.com/sites/magnus-tuvendal/deploys
 Ser om build fungerar.
 
+## Diverse edits
+
+- **Ta bort widget**: gå in i content>home> och öppna en widget. Här sätter man **active = false**.
+- 
+
+
+### lägga in draft utan att det visas
+*draft*: You can mark a document as a draft by setting draft: true in its YAML metadata. Draft posts will not be rendered if the site is built via blogdown::build_site() or blogdown::hugo_build(), but will be rendered in the local preview mode (see Section D.3).
+
+> har inte testat detta än.
 
 ## Lite tips på texter och stilar
 
