@@ -17,7 +17,16 @@ blogdown::update_hugo()
 
 OK. Nu är jag igång.
 
-### Preview site
+## Uppdatera löpande
+Nedan är hur jag fick igång det hela. Men hur gör jag nu för att:
+
+- ändra i RStudio
+- uppdatera GitHib
+- Se ny version på webben via Netlify
+
+
+
+## Preview site
 Jag kan skapa en ny site med *blogdown::new_site()*. Men det vill jag inte nu.
 Hur gör jag för att öppna/ladda en existerande site jag redan gjort?
 ```{r}
@@ -137,3 +146,7 @@ Så nu borde allt i public inte läggas över på Github. Detta behövs inte eft
 Viktigt att lägga in en version av Hugo. Görs som en variabel i Netlify.
 
 OK - Netlify jobbar men siten blir inte publiserad.
+
+Ändrar till HUGO 0.37.
+
+# Site is live!
