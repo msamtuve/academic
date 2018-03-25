@@ -28,4 +28,4 @@ caption = "My caption :smile:"
 
 +++
 
- Ett utredningsarbetet tillsammans med KMV forum AB om ekosystemtjänster (EST) i Trafikverkets verksamhet. Uppdraget innebär i detta skede att se 1) Vilka EST är det som Trafikverket framförallt påverkar? 2) Vilka EST har trafikverket framförallt möjlighet att styra sin påverkan på i åtgärdsplaneringen? 3) Hur kan EST användas i Trafikverkets åtgärdsplanering? Kontakt: Kristina Rundcrantz, Trafikverket, [kristina.rundcrantz@trafikverket.se].
+Ett utredningsarbetet tillsammans med KMV forum AB om ekosystemtjänster (EST) i Trafikverkets verksamhet. Uppdraget innebär i detta skede att se 1) Vilka EST är det som Trafikverket framförallt påverkar? 2) Vilka EST har trafikverket framförallt möjlighet att styra sin påverkan på i åtgärdsplaneringen? 3) Hur kan EST användas i Trafikverkets åtgärdsplanering? Kontakt: Kristina Rundcrantz, Trafikverket, [kristina.rundcrantz@trafikverket.se].
