@@ -6,14 +6,14 @@ date = "2017-01-21"
 title = "Strategisk bedömning av ekosystemtjänster inför nationell plan, Trafikverket"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Hur kan ekosystemtjänster informera utformning och beslut på en stratgisk nivå av en plan som gäller för hela Sverige?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "TRV_preview.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning"]
+tags = ["ekosystemtjänster", "strategisk planering", "beslutsfattande"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

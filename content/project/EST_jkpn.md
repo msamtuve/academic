@@ -13,7 +13,7 @@ image_preview = "EST_jkpn_preview.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning"]
+tags = ["ekosystemtjänster", "hållbarhet", "stadsutveckling", "integrering", "beslutsfattande"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+# image = "headers/bubbles-wide.jpg"
+# caption = "My caption :smile:"
 
 +++
 
