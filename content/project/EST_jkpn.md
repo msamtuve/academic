@@ -38,5 +38,5 @@ Ett kärnbudskap är att integrering av grön infrastruktur och ekosystemtjänst
 
 Rapport skickas till på begäran.
 
-{{< figure src=/img/"EST_jkpn_preview.png" title="Synteskarta över ekosystemtjänster och grön infrastruktur" >}}
+{{< figure src="/img/EST_jkpn_preview.png" title="Synteskarta över ekosystemtjänster och grön infrastruktur" >}}
 
