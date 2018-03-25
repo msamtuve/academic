@@ -2,7 +2,7 @@
 # Projects widget.
 widget = "projects"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-03-25"
 
 title = "Projects"
 subtitle = ""
