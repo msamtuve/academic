@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>/post/test-p%C3%A5-en-ny-post/</loc>
-      <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+      <loc>/post/ny-site/</loc>
+      <lastmod>2018-03-20T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -59,16 +59,7 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/</loc>
+      <loc>/talk/kursdag_est_2018/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -95,101 +86,7 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/faq/</loc>
-      <lastmod>2016-04-10T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/blogg/</loc>
-      <lastmod>2018-01-08T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/categories/</loc>
-      <lastmod>2018-01-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -218,8 +115,8 @@
     
     <url>
     
-      <loc>/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00+02:00</lastmod>
+      <loc>/</loc>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -228,8 +125,8 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <loc>/post/</loc>
+      <lastmod>2018-03-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -249,17 +146,6 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/r/</loc>
-      <lastmod>2018-01-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
