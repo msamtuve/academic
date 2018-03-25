@@ -13,7 +13,7 @@ image_preview = "Vitberget_preview.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning"]
+tags = ["ekosystemtjänster", "stadsutveckling", "integrering", "beslutsfattande"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -32,4 +32,4 @@ Projektet startade med att en lista med alla identifierade ekosystemtjänster i 
 
 Rapport skickas till på begäran.
 
-{{< figure src="/img/EST-illustrationer 2017.jpg" title="Värdeprofil. Data samlades in om ett stort antal indikatorer för ekosystemtjänster. Utifrån dessa indikatorer genomförs en expertbedömning som summeras i ett överskådligt diagram. " >}}
+{{< figure src="/img/EST_vitberg.jpg" title="Värdeprofil. Data samlades in om ett stort antal indikatorer för ekosystemtjänster. Utifrån dessa indikatorer genomförs en expertbedömning som summeras i ett överskådligt diagram. " >}}
