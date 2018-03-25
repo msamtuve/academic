@@ -33,8 +33,8 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Ekosystemtjänster"
-  tag = ".Ekosystemtjänster"
+  name = "ekosystemtjänster"
+  tag = ".ekosystemtjänster"
 
 +++
 
