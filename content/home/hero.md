@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"
 active = true
-date = 2017-10-15
+date = 2018-03-20
 
 title = "Hållbarhet = bäst före: 2030"
 
