@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Identifiera och värdera ekosystemtjänster i Vitbergsområdet, Skellefteå"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Det är svårt att sammanfatta ett komplext material med många dimensioner till något som är mätbart på samma skala, till exempel i kronor."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Vitberget_preview.jpg"

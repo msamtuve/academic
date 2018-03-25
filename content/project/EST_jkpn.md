@@ -6,7 +6,7 @@ date = "2017-01-21"
 title = "Kartläggning och värdering av ekosystemtjänster i Jönköpings kommun"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Uppdraget består grovt sett av två delar, dels en kartläggning som genererar nya kunskapsunder- lag och dels ett arbete som ger stöd till hur kommunen framöver kan använda kunskap om ekosystemtjänster och grön infrastruktur."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "EST_jkpn_preview.png"
