@@ -229,7 +229,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "vcard"
     icon_pack = "fa"
-    link = "https://drive.google.com/open?id=10dRfdn4TS6hoNzNI0M1QVBrYBTBYheiB"
+   # link = "https://drive.google.com/open?id=10dRfdn4TS6hoNzNI0M1QVBrYBTBYheiB"
     
   #[[params.social]]
    # icon = "coffee"
