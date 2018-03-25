@@ -224,17 +224,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "youtube"
     icon_pack = "fa"
-    link = "http://www.youtube.com"
+    link = "https://youtu.be/rNWL855ibMA"
     
   [[params.social]]
     icon = "vcard"
     icon_pack = "fa"
     link = "https://drive.google.com/open?id=10dRfdn4TS6hoNzNI0M1QVBrYBTBYheiB"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/gcushen"
 
 
 # Navigation Links
