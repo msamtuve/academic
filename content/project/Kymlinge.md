@@ -34,6 +34,19 @@ Medverkar även i framtagning av en sammanhållen platsanalys för Norra Kymling
 - identifiera platsspecifika mål och 
 - designkriterier för utvecklingen av området
 
+Brobyggande arbete för att förena ekologi med arkitektur/stadsplanering. Metoder för analys och kommunikation har utvecklats och anpassats av Calluna för att kunna framgångsrikt stödja Vasakronans visionsprocess och för att senare stödja medverkande arkitekt-team i deras arbete. Detta inbegriper bl.a.:
+
+1. Workshop tillsammans med Vasakronans projektledning inkl. Hållbarhetschef för att låta ekologisk förståelse under kreativa former möta Vasakronans visioner om stadsbyggnad.
+2. Förenar observationer från Naturvärdesinventering, Ekologiska landskapssamband (nätverk) och ekosystemtjänster till en begriplig helhet.
+3. Utformning av ett nytt kommunikationsmedel, en nyckel som länkar samman gestaltning—ekosystemtjänster som kommunicerar viktig ekologi på ett begripligt sätt till arkitekter.
+4. Muntlig rådgivning och expertstöd till arkitekt-team. Att kunna svara på deras frågor, där och då. 
+
+Ofta används marktäckedata för att kartlägga ekosystemtjänster. Detta är den idag vanligaste metoden. Detta har visat sig ofta vara en för grov kartläggning, inte konkret nog, för att effektivt stödja arbete på nivå av detaljplan och informera om vad som ska bevaras eller förstärkas. Det är heller inget som arkitekter lätt kan relatera till. I detta arbete introducerar vi därför begreppet Ekologiska strukturer för att svara på frågan ”Vad producerar ekosystemtjänster?”. Vi använder här begreppet brett och avser ekologiska strukturer av skilda slag. 
+
+Nedanstående nyckel är tagen från ”Site analysis Norra Kymlinge” och visar för platsen betydelsefulla ekosystemtjänster och ekologiska strukturer.
+
+Magnus Tuvendal har varit projektledare för Callunas arbete med Norra Kymlinge. Magnus har själv gjort analyser rörande ekosystemtjänster, modererat utforskande workshop med Vasakronans projektgrupp samt och varit expertstöd för de internationella arkitekt-team som fick uppdrag att ta fram prototyper för hållbar stadsbyggnad.
+
 {{< figure src="/img/nyckel.jpg" title="Nyckel för gestaltning och ekosystemtjänster." >}}
 
 
