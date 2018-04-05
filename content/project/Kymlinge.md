@@ -6,20 +6,19 @@ date = "2017-04-05"
 title = "Den mest hållbara staden, Vasakronan. Platsanalys Norra Kymlinge."
 
 # Project summary to display on homepage.
-summary = "Vasakronans vision - att planera och bygga den mest hållbara stadsdelen för världen. En stadsdel som är en del av ekosystemet och som ger mer än den tar. Nya effektivare sätt att kommunicera ekosystemtjänster och grön infrastruktur för arkitekter och byggare."
+summary = "Vasakronans vision - att planera och bygga den mest hållbara stadsdelen för världen. En stadsdel som är en del av ekosystemet och som ger mer än den tar. Vi utvecklar nya effektivare sätt att kommunicera ekosystemtjänster och grön infrastruktur för arkitekter och byggare."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "kymlinge.png"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "nyckel.png"
+# image = "nyckel.png"
 
 # Tags: can be used for filtering projects.
 tags = ["ekosystemtjänster", "hållbarhet", "stadsutveckling", "integrering"]
 
 +++
-
 
 
 Norra Kymlinge är ett omdiskuterat område för potentiell stadsutbyggnad. Området är unikt i att det är en sammanhållen stadsskog som ansluter till ett naturreservat som samtidigt ligger nära det expansiva Kista och att det inom området finns en outnyttjad tunnelbanestation. Vasakronan är markägare och har under 2016—2017 initierad ett kunskapsinhämtande för att undersöka möjligheter att uppföra en stadsbyggnad med de allra högsta ambitioner rörande hållbar stad. 
