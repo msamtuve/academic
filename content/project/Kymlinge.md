@@ -9,7 +9,7 @@ title = "Den mest hållbara staden, Vasakronan. Platsanalys Norra Kymlinge."
 summary = "Vasakronans vision - att planera och bygga den mest hållbara stadsdelen för världen. En stadsdel som är en del av ekosystemet och som ger mer än den tar. Vi utvecklar nya effektivare sätt att kommunicera ekosystemtjänster och grön infrastruktur för arkitekter och byggare."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "riksbyggen.jpg"
+image_preview = "nyckel.jpg"
 
 # Tags: can be used for filtering projects.
 tags = ["ekosystemtjänster", "hållbarhet", "stadsutveckling", "integrering", "beslutsfattande"]
