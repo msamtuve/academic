@@ -34,7 +34,8 @@ Medverkar även i framtagning av en sammanhållen platsanalys för Norra Kymling
 - identifiera platsspecifika mål och 
 - designkriterier för utvecklingen av området
 
-Brobyggande arbete för att förena ekologi med arkitektur/stadsplanering. Metoder för analys och kommunikation har utvecklats och anpassats av Calluna för att kunna framgångsrikt stödja Vasakronans visionsprocess och för att senare stödja medverkande arkitekt-team i deras arbete. Detta inbegriper bl.a.:
+## Brobyggande arbete för att förena ekologi med arkitektur/stadsplanering
+Metoder för analys och kommunikation har utvecklats och anpassats av Calluna för att kunna framgångsrikt stödja Vasakronans visionsprocess och för att senare stödja medverkande arkitekt-team i deras arbete. Detta inbegriper bl.a.:
 
 1. Workshop tillsammans med Vasakronans projektledning inkl. Hållbarhetschef för att låta ekologisk förståelse under kreativa former möta Vasakronans visioner om stadsbyggnad.
 2. Förenar observationer från Naturvärdesinventering, Ekologiska landskapssamband (nätverk) och ekosystemtjänster till en begriplig helhet.
