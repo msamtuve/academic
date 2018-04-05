@@ -9,7 +9,7 @@ title = "Fördjupa och utveckla Riksbyggens arbete med ekosystemtjänster"
 summary = "Expertstöd och resonerande samtalspartner för att identifiera hur Riksbyggen kan fortsatt förena sin affärsmodell med höga ambitioner rörande hållbarhet och särskilt att integrera ekosystemtjänster. En serie kreativa diskussioner med miljöchef och hållbarhetschef."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "riksbyggen.png"
+image_preview = "riksbyggen.jpg"
 
 # Tags: can be used for filtering projects.
 tags = ["ekosystemtjänster", "hållbarhet", "stadsutveckling", "integrering", "beslutsfattande"]
