@@ -3,20 +3,20 @@
 date = "2017-04-05"
 
 # Project title.
-title = "Det mest hållbara staden, Vasakronan. Platsanalys Norra Kymlinge."
+title = "Den mest hållbara staden, Vasakronan. Platsanalys Norra Kymlinge."
 
 # Project summary to display on homepage.
-summary = "Vasakronans vision: att planera och bygga den mest hållbara stadsdelen för världen. En stadsdel som är en del av ekosystemet och som ger mer än den tar. I detta arbete har Calluna bidragit med nyckelkompetens för alla aspekter som rör ekologi inklusive ekosystemtjänster. Vi utvecklar nya effektivare sätt att kommunicera ekosystemtjänster och grön infrastruktur för arkitekter och byggare."
+summary = "Vasakronans vision: att planera och bygga den mest hållbara stadsdelen för världen. En stadsdel som är en del av ekosystemet och som ger mer än den tar. Vi utvecklar nya effektivare sätt att kommunicera ekosystemtjänster och grön infrastruktur för arkitekter och byggare."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "skiss_fält.jpg"
+image_preview = "kymlinge.png"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "kymlinge.png"
 
 # Tags: can be used for filtering projects.
-tags = ["ekosystemtjänster", "hållbarhet", "stadsutveckling", "integrering", "beslutsfattande"]
+tags = ["ekosystemtjänster", "hållbarhet", "stadsutveckling", "integrering"]
 
 
 +++
@@ -25,11 +25,11 @@ Norra Kymlinge är ett omdiskuterat område för potentiell stadsutbyggnad. Omr�
 
 I detta arbete har Calluna bidragit med nyckelkompetens för alla aspekter som rör ekologi inklusive ekosystemtjänster.
 
-Bidrar med två utredningar:
+Bidrar i två utredningar:
 - Ekologisk utredning, som inkluderar Naturvärdesinventering och ekologiska landskapssamband
 - Bred analys av ekosystemtjänster
 
-Calluna bidrar även i framtagning av en sammanhållen platsanalys för Norra Kymlinge. Med denna platsanalys som grund inbjöds sedan tre internationella team att ta fram en prototyp, en förstudie för området Norra Kymlinge i linje med Vasakronans vision. Platsanalysens syfte var att ligga till grund för att kunna:
+Medverkar även i framtagning av en sammanhållen platsanalys för Norra Kymlinge. Med denna platsanalys som grund inbjöds sedan tre internationella team att ta fram en prototyp, en förstudie för området Norra Kymlinge i linje med Vasakronans vision. Platsanalysens syfte var att ligga till grund för att kunna:
 - identifiera platsspecifika mål och 
 - designkriterier för utvecklingen av området
 
