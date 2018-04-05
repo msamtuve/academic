@@ -24,6 +24,13 @@ Norra Kymlinge är ett omdiskuterat område för potentiell stadsutbyggnad. Omr�
 
 Vasakronans vision: **att planera och bygga den mest hållbara stadsdelen för världen. En stadsdel som är en del av ekosystemet och som ger mer än den tar**. [Till Vasakronan.](https://stadsutveckling.vasakronan.se/stockholm/norra-kymlinge-2) 
 
+Bidrar i två utredningar:
+- Ekologisk utredning, som inkluderar Naturvärdesinventering och ekologiska landskapssamband
+- Bred analys av ekosystemtjänster
+
+Medverkar även i framtagning av en sammanhållen platsanalys för Norra Kymlinge. Med denna platsanalys som grund inbjöds sedan tre internationella team att ta fram en prototyp, en förstudie för området Norra Kymlinge i linje med Vasakronans vision. Platsanalysens syfte var att ligga till grund för att kunna:
+- identifiera platsspecifika mål och 
+- designkriterier för utvecklingen av området
 
 {{< figure src="/img/nyckel.jpg" title="Nyckel för gestaltning och ekosystemtjänster." >}}
 
