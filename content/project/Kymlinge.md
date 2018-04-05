@@ -14,6 +14,10 @@ image_preview = "nyckel.jpg"
 # Tags: can be used for filtering projects.
 tags = ["ekosystemtjänster", "hållbarhet", "stadsutveckling", "integrering", "beslutsfattande"]
 
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "kymlinge.jpg"
+# caption = "My caption :smile:
 
 +++
 Riksbyggen har varit en av pionjärerna med att integrera ekosystemtjänster i deras affärsmodell. Med detta som spjutspets i dersa hållbarhetsarbete har företaget profilerat sig starkt som en seriös hållbarhetsaktör i sveksan stadsbyggande.
