@@ -27,5 +27,12 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++
+Vart fjärde år levererar Trafikverket förslag till en ny nationell plan för transportsystemet, som spänner över tolv år. Nästkommande plan avser perioden 2018–2029.En nationell transportplan ska miljöbedömmas enligt EU:s direktiv om Miljöbedömning av planer och program. Sådana miljöbedömningar är strategiska. Den övergripande frågan är: 
+**hur ekosystemtjänster kan intgreras i denna miljöbedömning?**. Det har i internationell forskning ofta visats att strategiska miljöbedömningar fördjupar sig i detaljer, tvärt emot regelverkens intentioner. 
 
-Ett utredningsarbetet tillsammans med KMV forum AB om ekosystemtjänster (EST) i Trafikverkets verksamhet. Uppdraget innebär i detta skede att se 1) Vilka EST är det som Trafikverket framförallt påverkar? 2) Vilka EST har trafikverket framförallt möjlighet att styra sin påverkan på i åtgärdsplaneringen? 3) Hur kan EST användas i Trafikverkets åtgärdsplanering? Kontakt: Kristina Rundcrantz, Trafikverket, [kristina.rundcrantz@trafikverket.se].
+Uppdraget utfört tillsammans med KMV forum AB och innebär i detta skede att se 1) Vilka EST är det som Trafikverket framförallt påverkar? 2) Vilka EST har trafikverket framförallt möjlighet att styra sin påverkan på i åtgärdsplaneringen? 3) Hur kan EST användas i Trafikverkets åtgärdsplanering? 
+
+I uppdraget ingår att utvärdera en metod som presenterats av Naturvårdsverket [Integrera ekosystemtjänster i myndigheters verksamhet – en vägledning](http://www.naturvardsverket.se/vagledning-integrera-ekosystemtjanster). Slutsatser dras om vägledningens funktionalitet för Trafikverkets ändamål och eventuella justeringsmöjligheter för att förbättra nyttan av vägledningen.
+
+Rapport skickas till på begäran.
+
