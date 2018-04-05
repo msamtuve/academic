@@ -1,22 +1,20 @@
 +++
 # Date this page was created.
-date = "2017-04-05”
+date = "2017-04-05"
 
 # Project title.
-title = ”Fördjupa och utveckla Riksbyggens arbete med ekosystemtjänster (2017)"
+title = ”Fördjupa och utveckla Riksbyggens arbete med ekosystemtjänster"
 
 # Project summary to display on homepage.
 summary = "Expertstöd och resonerande samtalspartner för att identifiera hur Riksbyggen kan fortsatt förena sin affärsmodell med höga ambitioner rörande hållbarhet och särskilt att integrera ekosystemtjänster. En serie kreativa diskussioner med miljöchef och hållbarhetschef."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "EST_jkpn_preview.png"
+image_preview = "riksbyggen.png"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["ekosystemtjänster", "hållbarhet", "stadsutveckling", "integrering", "beslutsfattande"]
 
-# Optional external URL for project (replaces project detail page).
-external_link = ""
+
 +++
 Riksbyggen har varit en av pionjärerna med att integrera ekosystemtjänster i deras affärsmodell. Med detta som spjutspets i dersa hållbarhetsarbete har företaget profilerat sig starkt som en seriös hållbarhetsaktör i sveksan stadsbyggande.
 
