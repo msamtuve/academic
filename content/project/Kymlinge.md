@@ -6,7 +6,7 @@ date = "2017-04-05"
 title = "Fördjupa och utveckla Riksbyggens arbete med ekosystemtjänster"
 
 # Project summary to display on homepage.
-summary = "Expertstöd och resonerande samtalspartner för att identifiera hur Riksbyggen kan fortsatt förena sin affärsmodell med höga ambitioner rörande hållbarhet och särskilt att integrera ekosystemtjänster. En serie kreativa diskussioner med miljöchef och hållbarhetschef."
+summary = "Vasakronans vision - att planera och bygga den mest hållbara stadsdelen för världen. En stadsdel som är en del av ekosystemet och som ger mer än den tar. Vi utvecklar nya effektivare sätt att kommunicera ekosystemtjänster och grön infrastruktur för arkitekter och byggare."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "riksbyggen.jpg"
