@@ -20,13 +20,11 @@ image = "kymlinge.jpg"
 # caption = "My caption :smile:
 
 +++
-Riksbyggen har varit en av pionjärerna med att integrera ekosystemtjänster i deras affärsmodell. Med detta som spjutspets i dersa hållbarhetsarbete har företaget profilerat sig starkt som en seriös hållbarhetsaktör i sveksan stadsbyggande.
+Norra Kymlinge är ett omdiskuterat område för potentiell stadsutbyggnad. Området är unikt i att det är en sammanhållen stadsskog som ansluter till ett naturreservat som samtidigt ligger nära det expansiva Kista och att det inom området finns en outnyttjad tunnelbanestation. Vasakronan är markägare och har under 2016—2017 initierad ett kunskapsinhämtande för att undersöka möjligheter att uppföra en stadsbyggnad med de allra högsta ambitioner rörande hållbar stad. 
 
-Detta är inte ett projekt med en rapport eller specifik analys i sikte utan ett gemensamt kreativt och analytisk utforskande arbete. Formen är regelbundna träffar, om dryga två timmar, med några veckors mellanrum. Dagordningen är att borra ned i den stora frågan: **Hur kan Riksbyggen gå vidare i sitt hållbarhetsarbete, särskilt rörande ekosystemtjänster?** och finna komponenter som bör bevaras, kan förbättras, läggas till, justeras o.s.v. 
-
-Grunden för detta projekt är ett förtroendefullt samtal. Jag tillför ett utanifrån-perspektiv och specialistkompetens. 
+Vasakronans vision: **att planera och bygga den mest hållbara stadsdelen för världen. En stadsdel som är en del av ekosystemet och som ger mer än den tar**. [Till Vasakronan.](https://stadsutveckling.vasakronan.se/stockholm/norra-kymlinge-2) 
 
 
-{{< figure src="/img/riksbyggen.jpg" title="Vi jobbar på whitboard och utforskar Riksbyggens affärsmodell och dess relation till ekosystemtjänser." >}}
+{{< figure src="/img/nyckel.jpg" title="Nyckel för gestaltning och ekosystemtjänster." >}}
 
 
