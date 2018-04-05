@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+# image = "headers/bubbles-wide.jpg"
+# caption = "My caption :smile:"
 
 +++
 Vart fjärde år levererar Trafikverket förslag till en ny nationell plan för transportsystemet, som spänner över tolv år. Nästkommande plan avser perioden 2018–2029.En nationell transportplan ska miljöbedömmas enligt EU:s direktiv om Miljöbedömning av planer och program. Sådana miljöbedömningar är strategiska. Den övergripande frågan är: 
