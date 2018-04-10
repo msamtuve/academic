@@ -16,14 +16,14 @@ tags = ["ekosystemtjänster", "landskap", "planering", "klimat", "grön infrastr
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "Arts_header.png"
+# image = "Arts_header.png"
 # caption = "Foto: Giulio Deboni, Calluna AB."
 +++
 Detta arbetet avser inte att vederlägga en bestämd hypotes eller uppfattning utan snarare identifiiera frågor och utmaningar som kan, och bör, vidare problematiseras och undersökas. Förhoppningsvis bidrar rapporten till fortsatt diskussion och att steg tas för att djupare och bredare engagera arkitekter i synliggörandet av ekosystemtjänster värde.
 
 I rapporten presenteras tre förslag, till stöd för att arkitekter ska kunna integrera ekosystemtjänster i sitt verksamhet. Dessa förslag kan förverkligas i en kombination av akademisk forskning och praktiknära projekt. Rapportens förslag ska ses som ”en primer” för att väcka frågor, ett arbete med syfte att inspirera till att steg tas för att arbeta med de utmaningar som arkitekter idag står inför i sitt arbete med att konkretisera hållbar stadsutveckling. Det tre förslagen relaterar till hur uppdrag formuleras, till hur stadens gröna strukturer och ekosystemtjänster kan gestaltas och till hur frågan hur gröna strukturer och ekosystemtjänster ska förvaltas.
 
-# Tre utmaningar funna i genomförda intervjuer & tre möjliga lösningar
+## Tre utmaningar funna i genomförda intervjuer & tre möjliga lösningar
 
 1. **Arkitekter har för trubbigt språk för stadens gröna strukturer.** PBL har en binär uppdelning i natur och park. *Nu är det så att antingen gör man ett reservat eller en park…*. 
 
