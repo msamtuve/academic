@@ -23,7 +23,7 @@ Premisserna för detta projekt var:
 
 1. Hållbar utveckling kräver en förändring (en transformation eller transition - beroende på vilken teoretisk grund man lutar sig mot).
 2. Det kanske finns redan idag exempel på denna förändring - föregångare som representerar framtidens mainstream.
-3. Om vi kan lära av dessa föregångare kanske vi kan accellerera en omställning.
+3. Om vi kan lära av dessa föregångare kanske vi kan accelerera en omställning.
 
 I detta projekt identifierades 53 lokala initiativ och 18 av dessa valdes ut studerades närmare. Representanter för dessa initiativ intervjuades om hur initiativet tillkommit och utvecklats, vilka barriärer och möjligheter man såg i regionen, samt hur man arbetar med andra aktörer. Vidare intervjuades nyckelaktörer om regionens hållbarhetsarbete i stort och om vilken roll lokala initiativ spelar. 
 
