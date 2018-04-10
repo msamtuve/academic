@@ -10,7 +10,7 @@ title = "Magnus Tuvendal"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2018 Magnus Tuvendal"
 
 theme = "hugo-academic"
 enableEmoji = true
