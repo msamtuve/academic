@@ -16,10 +16,11 @@ tags = ["ekosystemtjänster", "landskap", "planering", "klimat", "grön infrastr
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-# image = "vildbi_GI.jpg"
-# caption = "Foto: Giulio Deboni, Calluna AB."
-
+image = "vildbi_GI.jpg"
+caption = "Foto: Giulio Deboni, Calluna AB."
 +++
+
+
 Grön infrastruktur är ett för många förvirrande begrepp. Efter att ha deltagit i flera sammanhang där grön infrastruktur diskuterats så var beställarna, från tre länssturelser, fortfarande tveksamma. Vad är grön infrastruktur? Med detta projekt var deras önskan att få både förtydliganden och inspiration.
 
 > Längs vägar, ovan E4, finns ofta torra gräsmarker med stor mängd och olika arter av blommor. Den sandiga marken är optimal för bin som gräver gångar i marken och lägger äggen där.En sådan här biotop är ofta en viktig miljö för vildbin. Det är inte ovanligt att biotoptypen betraktas som ointressant ur naturvårdssynpunkt. 
