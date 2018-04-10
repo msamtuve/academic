@@ -3,7 +3,7 @@
 date = "2017-04-10"
 
 # Project title.
-title = "Hur kan man accelerera hållbarhetsarbetet?"
+title = "Utmaningar för arkitekter att integrera ekosystemtjänster"
 
 # Project summary to display on homepage.
 summary = "En färdplan från EU-projektet ARTS (Accelerating and Rescaling Transitions to Sustainability) som visar hur lokala initiativ – privata, offentliga och ideella – kan bidra till en mer genomgripande och snabbare omställning till hållbar utveckling."
@@ -19,6 +19,7 @@ tags = ["ekosystemtjänster", "landskap", "planering", "klimat", "grön infrastr
 image = "Arts_header.png"
 # caption = "Foto: Giulio Deboni, Calluna AB."
 +++
+Detta arbetet avser inte att vederlägga en bestämd hypotes eller uppfattning utan snarare identifiiera frågor och utmaningar som kan, och bör, vidare problematiseras och undersökas. Förhoppningsvis bidrar rapporten till fortsatt diskussion och att steg tas för att djupare och bredare engagera arkitekter i synliggörandet av ekosystemtjänster värde.
 
 I rapporten presenteras tre förslag, till stöd för att arkitekter ska kunna integrera ekosystemtjänster i sitt verksamhet. Dessa förslag kan förverkligas i en kombination av akademisk forskning och praktiknära projekt. Rapportens förslag ska ses som ”en primer” för att väcka frågor, ett arbete med syfte att inspirera till att steg tas för att arbeta med de utmaningar som arkitekter idag står inför i sitt arbete med att konkretisera hållbar stadsutveckling. Det tre förslagen relaterar till hur uppdrag formuleras, till hur stadens gröna strukturer och ekosystemtjänster kan gestaltas och till hur frågan hur gröna strukturer och ekosystemtjänster ska förvaltas.
 
@@ -39,6 +40,10 @@ I rapporten presenteras tre förslag, till stöd för att arkitekter ska kunna i
 
 Sprid och använd gärna detta arbete men hänvisa till källa.
 [Creative Commons](https://creativecommons.org/licenses/by/3.0/)
+
+Rapport skickas på begäran.
+
+Författare är Magnus Tuvendal och Karl Samuelsson (fil.kand Arkitektur, projektmedverkan ingår som praktik i Magisterprogrammet Social-ekologisk resiliens för hållbar samhällsutveckling, Stockholms universitet).
 
 {{< figure src="/img/linjar_problem.png" title="Problemlösning som stegvis linjär process." >}}
 
