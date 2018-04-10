@@ -16,8 +16,8 @@ tags = ["ekosystemtjänster", "landskap", "planering", "klimat", "grön infrastr
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "vildbi_GI.jpg"
-caption = "Foto: Giulio Deboni, Calluna AB."
+# image = "vildbi_GI.jpg"
+# caption = "Foto: Giulio Deboni, Calluna AB."
 
 +++
 Grön infrastruktur är ett för många förvirrande begrepp. Efter att ha deltagit i flera sammanhang där grön infrastruktur diskuterats så var beställarna, från tre länssturelser, fortfarande tveksamma. Vad är grön infrastruktur? Med detta projekt var deras önskan att få både förtydliganden och inspiration.
@@ -46,9 +46,7 @@ Magnus Tuvendal (projektledare) är författare till rapportens första del som 
 Rapport skickas på begäran.
 
 
-
 {{< figure src="/img/gron-infra.jpg" title="Bilder till höger visar ett ekologisk nätverk i sin enklaste form bestående av livsmiljöer och spridningslänkar – en principskiss. Till vänster är ett exempel på skogligt nätverk i stadsmiljö. De svarta länkarna är de mest sannolika spridningsvägarna men spridning kan ske även i andra sträckningar. Runt länkarna visar en färggradient hur gärna fokusarten rörs sig i stadslandskapet. Röda toner pekar på ogästvänliga miljöer. Ofärgade områden nås inte av fokusarten. Illustration: Calluna AB." >}}
-
 
 
 {{< figure src="/img/temp-reg-multi.jpg" title="Multifunktionalitet och sammanlagt värde. Ekosystem levererar samtidigt många olika tjänster och nyttor. Ekosystemtjänsten temperaturreglering tillhandahålls av urban grönstruktur och ger bättre hälsa och energisparande. Stadsskogar och andra grönstrukturer som bidrar till temperaturreglering producerar samtidigt även andra ekosystemtjänster. Illustration: Magnus Tuvendal, Calluna AB." >}}
