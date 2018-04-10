@@ -17,7 +17,7 @@ tags = ["ekosystemtjänster", "landskap", "planering", "klimat", "grön infrastr
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "kymlinge.jpg"
-# caption = "My caption :smile:
+caption = "En sådan här biotop är ofta en viktig miljö för vildbin. Det är inte ovanligt att biotoptypen betraktas som ointressant ur naturvårdssynpunkt. Foto: Giulio Deboni, Calluna AB."
 
 +++
 Grön infrastruktur är ett för många förvirrande begrepp. Efter att ha deltagit i flera sammanhang där grön infrastruktur diskuterats så var beställarna, från tre länssturelser, fortfarande tveksamma. Vad är grön infrastruktur? Med detta projekt var deras önskan att få både förtydliganden och inspiration.
@@ -39,15 +39,15 @@ På europeisk nivå och nationellt i Sverige (i USA används begreppet inte på 
 1. för att bevara biologisk mångfald och
 2. för att främja ekosystemtjänster.
 
-Magnus Tuvendal var projektledare och är författare till rapportens första del som förklarar grön infrastruktur och ekosystemtjänster och relationen till klimatanpassning och miljömål. Del 2 illustrerar med geografiska underlag hur grön infrastruktur, och grönstruktur, kan bidra till klimatanpassning. Denna del har författats av Greger Lindeberg, Sara Wiman och Tobias Edman (Geografiska Informationsbyrån AB).
+Magnus Tuvendal (projektledare) är författare till rapportens första del som förklarar grön infrastruktur och ekosystemtjänster och relationen till klimatanpassning och miljömål. Del 2 illustrerar med geografiska underlag hur grön infrastruktur, och grönstruktur, kan bidra till klimatanpassning. Denna del har författats av Greger Lindeberg, Sara Wiman och Tobias Edman från Geografiska Informationsbyrån AB.
 
 Rapport skickas på begäran.
 
 
 {{< figure src="/img/gron-infra.jpg" title="Bilder till höger visar ett ekologisk nätverk i sin enklaste form bestående av livsmiljöer och spridningslänkar – en principskiss. Till vänster är ett exempel på skogligt nätverk i stadsmiljö. De svarta länkarna är de mest sannolika spridningsvägarna men spridning kan ske även i andra sträckningar. Runt länkarna visar en färggradient hur gärna fokusarten rörs sig i stadslandskapet. Röda toner pekar på ogästvänliga miljöer. Ofärgade områden nås inte av fokusarten. Illustration: Calluna AB." >}}
 
-Rapporten ger också en historisk
 
-{{< figure src="/img/temp-reg-multi.jpg" title="Multifunktionalitet och sammanlagt värde. Ekosystem levererar samtidigt många olika tjänster och nyttor. Ekosystemtjänsten temperaturreglering tillhandahålls av urban grönstruktur och ger bättre hälsa och energisparande. Stadsskogar och andra grönstrukturer som bidrar till temperaturreglering producerar samtidigt även andra ekosystemtjänster." >}}
+
+{{< figure src="/img/temp-reg-multi.jpg" title="Multifunktionalitet och sammanlagt värde. Ekosystem levererar samtidigt många olika tjänster och nyttor. Ekosystemtjänsten temperaturreglering tillhandahålls av urban grönstruktur och ger bättre hälsa och energisparande. Stadsskogar och andra grönstrukturer som bidrar till temperaturreglering producerar samtidigt även andra ekosystemtjänster. Illustration: Magnus Tuvendal, Calluna AB." >}}
 
 
