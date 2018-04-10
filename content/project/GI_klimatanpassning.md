@@ -34,7 +34,7 @@ Grön infrastruktur är ett begrepp som vill berätta flera saker samtidigt, all
 
 > Grön infrastruktur är ett ekologiskt funktionell nätverk av livsmiljöer.
 
-Livsmiljöerna består av olika slags "gröna element". Dessa beskrivs i planeringssammanhang ibland som *grönstruktur*, *grönyta* eller *grönområden*; begrepp som inte används på ett entydigt sätt. Det saknas en överenskommen och stabil terminologi.
+Livsmiljöerna består av olika slags **gröna element**. Dessa beskrivs i planeringssammanhang ibland som *grönstruktur*, *grönyta* eller *grönområden*; det är begrepp som inte används på ett entydigt sätt. Det saknas en överenskommen och stabil terminologi.
 
 På europeisk nivå och nationellt i Sverige (i USA används begreppet inte på samma sätt) så ges två motiv för att skydda, stärka eller skapa en grön infrastruktur:
 
@@ -44,6 +44,7 @@ På europeisk nivå och nationellt i Sverige (i USA används begreppet inte på 
 Magnus Tuvendal (projektledare) är författare till rapportens första del som förklarar grön infrastruktur och ekosystemtjänster och relationen till klimatanpassning och miljömål. Del 2 illustrerar med geografiska underlag hur grön infrastruktur, och grönstruktur, kan bidra till klimatanpassning. Denna del har författats av Greger Lindeberg, Sara Wiman och Tobias Edman från Geografiska Informationsbyrån AB.
 
 Rapport skickas på begäran.
+
 
 
 {{< figure src="/img/gron-infra.jpg" title="Bilder till höger visar ett ekologisk nätverk i sin enklaste form bestående av livsmiljöer och spridningslänkar – en principskiss. Till vänster är ett exempel på skogligt nätverk i stadsmiljö. De svarta länkarna är de mest sannolika spridningsvägarna men spridning kan ske även i andra sträckningar. Runt länkarna visar en färggradient hur gärna fokusarten rörs sig i stadslandskapet. Röda toner pekar på ogästvänliga miljöer. Ofärgade områden nås inte av fokusarten. Illustration: Calluna AB." >}}
