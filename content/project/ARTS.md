@@ -39,11 +39,11 @@ Forskningsprojektet var finansierat av EUs 7:e ramprogram och genomförs under t
 
 Mer om projektet hittar du här: [till Accelerating Transitions.](http://acceleratingtransitions.eu) 
 
-Jag medverkade tillsammans med kollegor på Stockholm Resilience Centre i Stockholmsstudien med Sara Borgström som projektlendare.
+Jag medverkade tillsammans med kollegor på Stockholm Resilience Centre i Stockholmsstudien med Sara Borgström som projektledare.
 
 Rapport skickas på begäran.
 
-{{< figure src="/img/gron-infra.jpg" title="Bilder till höger visar ett ekologisk nätverk i sin enklaste form bestående av livsmiljöer och spridningslänkar – en principskiss. Till vänster är ett exempel på skogligt nätverk i stadsmiljö. De svarta länkarna är de mest sannolika spridningsvägarna men spridning kan ske även i andra sträckningar. Runt länkarna visar en färggradient hur gärna fokusarten rörs sig i stadslandskapet. Röda toner pekar på ogästvänliga miljöer. Ofärgade områden nås inte av fokusarten. Illustration: Calluna AB." >}}
+{{< figure src="/img/arts_initiativ.jpg" title="Några exempel på hur hållbarhetsinitiativen i ARTS arbetar i förhållande till de politiska målen." >}}
 
 
 
