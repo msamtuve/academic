@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 21 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Den mest hållbara staden, Vasakronan. Platsanalys Norra Kymlinge.</title>
+      <link>/project/kymlinge/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/kymlinge/</guid>
+      <description>Norra Kymlinge är ett omdiskuterat område för potentiell stadsutbyggnad. Området är unikt i att det är en sammanhållen stadsskog som ansluter till ett naturreservat som samtidigt ligger nära det expansiva Kista och att det inom området finns en outnyttjad tunnelbanestation. Vasakronan är markägare och har under 2016—2017 initierad ett kunskapsinhämtande för att undersöka möjligheter att uppföra en stadsbyggnad med de allra högsta ambitioner rörande hållbar stad.
+Vasakronans vision: att planera och bygga den mest hållbara stadsdelen för världen.</description>
+    </item>
+    
+    <item>
+      <title>Fördjupa och utveckla Riksbyggens arbete med ekosystemtjänster</title>
+      <link>/project/est_riksbyggen/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/est_riksbyggen/</guid>
+      <description>Riksbyggen har varit en av pionjärerna med att integrera ekosystemtjänster i deras affärsmodell. Med detta som spjutspets i dersa hållbarhetsarbete har företaget profilerat sig starkt som en seriös hållbarhetsaktör i sveksan stadsbyggande.
+Detta är inte ett projekt med en rapport eller specifik analys i sikte utan ett gemensamt kreativt och analytisk utforskande arbete. Formen är regelbundna träffar, om dryga två timmar, med några veckors mellanrum. Dagordningen är att borra ned i den stora frågan: Hur kan Riksbyggen gå vidare i sitt hållbarhetsarbete, särskilt rörande ekosystemtjänster?</description>
+    </item>
+    
+    <item>
+      <title>Förena ekologi och arkitektur i tidiga skeden</title>
+      <link>/project/ekologi_arkitektur/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ekologi_arkitektur/</guid>
+      <description>En utmaning för stadsbyggande är hur ekologi kan informera planering, gestaltning och byggande. Ofta kommmer viktig information sent. En plats har programmerats, gestaltats, en skiss ligger klar. Först nu görs inventeringar och utredningar. I värsta fall blir ekologi en övning i att pynta ett område, en grön fernissa som inte på djupet tar vara på de värden (ekologiska) platsen har eller kan få.
+Här, i samarbete med Andersson Jönsson Landskapsarkitekter AB, arbetar vi på ett nytt sätt som bryter upp traditionellt stuprörstänkande.</description>
+    </item>
     
     <item>
       <title>Kartläggning och värdering av ekosystemtjänster i Jönköpings kommun</title>
@@ -18,7 +48,7 @@
       <pubDate>Sat, 21 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/project/est_jkpn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <description>Uppdraget beskrivs i av kommunen i förfrågningsunderlaget (FFU) med att: ”Kunskap om ekosystemtjänsterna &amp;hellip; är en förutsättning för att planera rätt vad gäller bevarande och skapande av ekosystem, utbyggnad av stadsmiljöer och verksamhetsområden på ett hållbart sätt, rening av luft och vatten, helhetssyn för grön infrastruktur etc.” ”För att kunna beakta alla aspekter som rör grönstruktur, ekosystem och arters fortlevnad vid all planering finns ett stort behov att få mer kunskap om och framöver att använda ekosystemtjänster i planarbetet.</description>
     </item>
     
     <item>
@@ -27,16 +57,8 @@
       <pubDate>Sat, 21 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/project/est_trv_ap/</guid>
-      <description>Ett utredningsarbetet tillsammans med KMV forum AB om ekosystemtjänster (EST) i Trafikverkets verksamhet. Uppdraget innebär i detta skede att se 1) Vilka EST är det som Trafikverket framförallt påverkar? 2) Vilka EST har trafikverket framförallt möjlighet att styra sin påverkan på i åtgärdsplaneringen? 3) Hur kan EST användas i Trafikverkets åtgärdsplanering? Kontakt: Kristina Rundcrantz, Trafikverket, [kristina.rundcrantz@trafikverket.se].</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/xxx/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/xxx/</guid>
-      <description></description>
+      <description>Vart fjärde år levererar Trafikverket förslag till en ny nationell plan för transportsystemet, som spänner över tolv år. Nästkommande plan avser perioden 2018–2029.En nationell transportplan ska miljöbedömmas enligt EU:s direktiv om Miljöbedömning av planer och program. Sådana miljöbedömningar är strategiska. Den övergripande frågan är: hur ekosystemtjänster kan intgreras i denna miljöbedömning?. Det har i internationell forskning ofta visats att strategiska miljöbedömningar fördjupar sig i detaljer, tvärt emot regelverkens intentioner.
+Uppdraget utfört tillsammans med KMV forum AB och innebär i detta skede att se 1) Vilka EST är det som Trafikverket framförallt påverkar?</description>
     </item>
     
     <item>
@@ -45,7 +67,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/project/est_skelleftea/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <description>Projektet startade med att en lista med alla identifierade ekosystemtjänster i Vitbergsområdet togs fram. För varje ekosystemtjänst fastställdes en eller flera indikatorer som beskriver nyttan av tjänsten. Nyttan beskrivs kvalitativt (med ord), kvantitativt (med någon fysisk enhet) eller mo- netärt (i kronor). I rapportens första del värderas varje indikator för sig utifrån indelningen kultu- rella, försörjande, reglerande och stödjande tjänster. Därefter försöker vi slå ihop värdena till en helhet. Det är svårt att sammanfatta ett komplext material med många dimensioner till något som är mätbart på samma skala, till exempel i kronor.</description>
     </item>
     
   </channel>

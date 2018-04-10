@@ -7,18 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ny site</title>
+      <title>Fem min systemtänkande</title>
+      <link>/post/fem-min-systemt%C3%A4nkande/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/fem-min-systemt%C3%A4nkande/</guid>
+      <description>Höll nyligen en kortfattad spaning om systemsyn. Exemplifierade med en modellering av hur den enskilde kan tänkas resonera i frågan om man ska ska ge eller inte ge pengar till tiggare.
+Kvalitativa eller semikvalitativa modeller har förmågan att göra mentala modeller explicita och kan illustrera konsekvenser som ofta inte är intuitiva.
+Nedan är två representationer av mentala modeller.
+En modell att leka med.
+  Komplexa problem - är det en god idé att ge pengar till tiggare?</description>
+    </item>
+    
+    <item>
+      <title>Inte facebook</title>
       <link>/post/ny-site/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/ny-site/</guid>
-      <description>Under mars kommer jag lägga ut projekt m.m. En site för publisering och diskussion. Siten är byggd med RStudio&amp;gt;Bloggdown&amp;gt;Github&amp;gt;Netlify.</description>
+      <description>Under mars kommer jag lägga ut projekt m.m. En site för publisering och diskussion. Siten är byggd med RStudio&amp;gt;Bloggdown&amp;gt;Github&amp;gt;Netlify.
+Gör detta som ett led i att återgå till basics: egna fristående och oberoende websidor som inte föder de som vill äta upp nätet (läs facebook).</description>
     </item>
     
   </channel>
