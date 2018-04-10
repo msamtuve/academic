@@ -7,6 +7,13 @@ output: html_notebook
 
 testtext
 
+# problem och lösningar
+Har fått problem med build.
+
+8:47:28 PM: Building sites …
+8:47:28 PM: ERROR 2018/04/10 18:47:28 Error while rendering "home" in "": template: theme/index.html:1:3: executing "theme/index.html" at <partial "widget_page...>: error calling partial: template: theme/partials/widget_page.html:23:9: executing "theme/partials/widget_page.html" at <partial $widget $par...>: error calling partial: template: theme/partials/widgets/projects.html:66:84: executing "theme/partials/widgets/projects.html" at <delimit .Params.tags...>: error calling delimit: can't iterate over <nil>
+
+**Lösning**: Ta bort en html som skapats i min mapp content/project. Skapades när jag gjorde en preview.
 
 
 # Uppdatera löpande
