@@ -29,11 +29,13 @@ Helhetstänkande förutsätter en systemförståelse hos beslutsfattare och plan
 I detta arbete ser vi närmare på *grön infrastruktur* och *ekosystemtjänster*. 
 
 Grön infrastruktur är ett begrepp som vill berätta flera saker samtidigt, alla viktiga, men dess kärna (i en svensk och europeisk diskussion), är att:
+
 > Grön infrastruktur är ett ekologiskt funktionell nätverk av livsmiljöer.
 
 Livsmiljöerna består av olika slags "gröna element". Dessa beskrivs i planeringssammanhang ibland som *grönstruktur*, *grönyta* eller *grönområden*; begrepp som inte används på ett entydigt sätt. Det saknas en överenskommen och stabil terminologi.
 
 På europeisk nivå och nationellt i Sverige (i USA används begreppet inte på samma sätt) så ges två motiv för att skydda, stärka eller skapa en grön infrastruktur:
+
 1. för att bevara biologisk mångfald och
 2. för att främja ekosystemtjänster.
 
@@ -42,7 +44,7 @@ Magnus Tuvendal var projektledare och är författare till rapportens första de
 Rapport skickas på begäran.
 
 
-{{< figure src="/img/gron-infra.jpg" title="Bilder till höger visar ett ekologisk nätverk i sin enklaste form bestående av **livsmiljöer** och **spridningslänkar** – en principskiss. Till vänster är ett exempel på skogligt nätverk i stadsmiljö. De svarta länkarna är de mest sannolika spridningsvägarna men spridning kan ske även i andra sträckningar. Runt länkarna visar en färggradient hur gärna fokusarten rörs sig i stadslandskapet. Röda toner pekar på ogästvänliga miljöer. Ofärgade områden nås inte av fokusarten. Illustration: Calluna AB." >}}
+{{< figure src="/img/gron-infra.jpg" title="Bilder till höger visar ett ekologisk nätverk i sin enklaste form bestående av livsmiljöer och spridningslänkar – en principskiss. Till vänster är ett exempel på skogligt nätverk i stadsmiljö. De svarta länkarna är de mest sannolika spridningsvägarna men spridning kan ske även i andra sträckningar. Runt länkarna visar en färggradient hur gärna fokusarten rörs sig i stadslandskapet. Röda toner pekar på ogästvänliga miljöer. Ofärgade områden nås inte av fokusarten. Illustration: Calluna AB." >}}
 
 Rapporten ger också en historisk
 
