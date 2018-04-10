@@ -16,11 +16,13 @@ tags = ["ekosystemtjänster", "landskap", "planering", "klimat", "grön infrastr
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "kymlinge.jpg"
-caption = "En sådan här biotop är ofta en viktig miljö för vildbin. Det är inte ovanligt att biotoptypen betraktas som ointressant ur naturvårdssynpunkt. Foto: Giulio Deboni, Calluna AB."
+image = "vildbi_GI.jpg"
+caption = "Foto: Giulio Deboni, Calluna AB."
 
 +++
 Grön infrastruktur är ett för många förvirrande begrepp. Efter att ha deltagit i flera sammanhang där grön infrastruktur diskuterats så var beställarna, från tre länssturelser, fortfarande tveksamma. Vad är grön infrastruktur? Med detta projekt var deras önskan att få både förtydliganden och inspiration.
+
+> Längs vägar, ovan E4, finns ofta torra gräsmarker med stor mängd och olika arter av blommor. Den sandiga marken är optimal för bin som gräver gångar i marken och lägger äggen där.En sådan här biotop är ofta en viktig miljö för vildbin. Det är inte ovanligt att biotoptypen betraktas som ointressant ur naturvårdssynpunkt. 
 
 **Grön infrastruktur** är ett nytt begrepp som tar plats inom policy, planering och beslutsfattande i Sverige. Det finns andra snarlika begrepp som även de dyker upp i nationell och europeisk policy, t.ex. naturbaserade lösningar (nature based solutions), ekosystem-baserad adaption (ecosystem based adaptation) och ekosystemtjänster (ecosystem services). Dessa begrepp berättar om olika saker men det finns också ett nära släktskap dem emellan. De pekar alla på att vi, enskilda människor och samhället i stort, är beroende av ekosystem omkring oss och att vi i högre grad än tidigare behöver arbeta med ett helhetstänkande i motsats till stuprörstänkande (som karaktäriseras av strategin att lösa separata delproblem). 
 
