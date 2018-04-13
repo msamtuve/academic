@@ -6,7 +6,7 @@ date = "2017-04-10"
 title = "Utmaningar för arkitekter att integrera ekosystemtjänster"
 
 # Project summary to display on homepage.
-summary = "En färdplan från EU-projektet ARTS (Accelerating and Rescaling Transitions to Sustainability) som visar hur lokala initiativ – privata, offentliga och ideella – kan bidra till en mer genomgripande och snabbare omställning till hållbar utveckling."
+summary = "Arkitekter ser många utmaningar med att inkludera de värden som stadens gröna strukturer ger boende. Vilka är dessa utmaningar? Tre lyfts fram som särskilt centrala och förslag på lösningar ges."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "utmaningar.png"
