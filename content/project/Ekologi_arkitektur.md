@@ -20,7 +20,5 @@ En utmaning för stadsbyggande är hur ekologi kan informera planering, gestaltn
 
 Här, i samarbete med Andersson Jönsson Landskapsarkitekter AB, arbetar vi på ett nytt sätt som bryter upp traditionellt stuprörstänkande. Här kommer ekologisk expertis in tidigt och platsens möjligheter diskuteras tillsammans. 
 
-
 {{< figure src="/img/skiss_fält.jpg" title="Platsanalys och skiss var olika värden finns - en grund för diskuterande arbetsmöte med ansvariga arkitekter." >}}
-
 

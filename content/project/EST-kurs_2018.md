@@ -12,7 +12,7 @@ summary = "Ett kurs som tar nästa steg, inte en introduktionskurs, och ger för
 image_preview = "Kurs_schema_2018.png"
 
 # Tags: can be used for filtering projects.
-tags = ["ekosystemtjänster"]
+tags = ["kompetensutveckling", "ekosystemtjänster", "hållbarhet", "stadsutveckling", "integrering", "beslutsfattande"]
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
