@@ -4,10 +4,10 @@ author: Magnus Tuvendal
 date: '2018-04-21'
 slug: hur-mycket-yta-är-nödvändig-för-att-ekosystemens-funktion-ska-bevaras-i-stadsmiljön
 categories: []
-tags: []
+tags: ["ekosystemtjänster", "stadsutveckling", "kartläggning", "beslutsfattande"]
 header:
   caption: ''
-  image: ''
+  image: 'EST_nahlik.png'
 ---
 
 En återkommande fråga i stadsplanering är **"Hur mycket yta, eller hur många träd, behöver vi spara?"**. En viktig fråga men inte lätt att besvara.
