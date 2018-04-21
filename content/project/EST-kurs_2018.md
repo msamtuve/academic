@@ -18,6 +18,35 @@ tags = ["ekosystemtjänster"]
 [header]
 # image = "Arts_header.png"
 # caption = "Foto: Giulio Deboni, Calluna AB."
+
+[[gallery_item]]
+album = "1"
+image = "Kurs_SDG.png"
+caption = "EST grunden för SDG"
+    
+[[gallery_item]]
+album = "1"
+image = "Kurs_versamhet.png"
+
+[[gallery_item]]
+album = "1"
+image = "Kurs_EST?.png"
+
+[[gallery_item]]
+album = "1"
+image = "Kurs_GYF.png"
+caption = "Övning"
+
+[[gallery_item]]
+album = "1"
+image = "Kurs_Kommunikation.png"
+
+[[gallery_item]]
+album = "1"
+image = "Kurs_Means.png"
+
+
+
 +++
 En späckad dag. Kursen är utformad för att ta nästa steg - att
 Kraven på att företag och organisationer ska värdera och ta hänsyn till ekosystemtjänster ökar snabbt – genom myndighetskrav, lagstiftning och inte minst dess centrala roll i **Agenda 2030** och de **Globala hållbarhetsmålen**. Under denna heldagsutbildning får du lära dig hur du kartlägger, mäter och värderar ekosystemtjänster utifrån verktyg, metoder och utredningar och hur resultatet av dessa kan användas i allt från beslutsprocesser till hållbarhetsredovisningar och kommunikation.
@@ -38,3 +67,4 @@ Efter kursen ska deltagarna ha fått:
 
 {{< figure src="/img/Kurs_schema_2018.png" title="En fullspäckad dag för fördjupning i konsten att integrera ekosystemtjänster i beslut och planering." >}}
 
+{{< gallery album="1" >}}
