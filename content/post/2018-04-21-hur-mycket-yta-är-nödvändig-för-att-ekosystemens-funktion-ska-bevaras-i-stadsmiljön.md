@@ -6,7 +6,7 @@ slug: hur-mycket-yta-är-nödvändig-för-att-ekosystemens-funktion-ska-bevaras-
 categories: []
 tags: ["ekosystemtjänster", "stadsutveckling", "kartläggning", "beslutsfattande"]
 header:
-  caption: ''
+  caption: 'En konceptuell modell av hur EST uppstår, av Amanda Nahlik.'
   image: 'EST_nahlik.png'
 ---
 

@@ -17,7 +17,7 @@ tags = ["ekosystemtjänster", "hållbarhet", "stadsutveckling", "integrering", "
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "kymlinge.jpg"
-caption = "En konceptuell modell av hur EST uppstår. (Amanda Nahlik)"
+
 
 +++
 Norra Kymlinge är ett omdiskuterat område för potentiell stadsutbyggnad. Området är unikt i att det är en sammanhållen stadsskog som ansluter till ett naturreservat som samtidigt ligger nära det expansiva Kista och att det inom området finns en outnyttjad tunnelbanestation. Vasakronan är markägare och har under 2016—2017 initierad ett kunskapsinhämtande för att undersöka möjligheter att uppföra en stadsbyggnad med de allra högsta ambitioner rörande hållbar stad. 
