@@ -24,6 +24,26 @@ album = "1"
 image = "Kurs_SDG.png"
 caption = "EST grunden för SDG"
     
+[[gallery_item]]
+album = "1"
+image = "Kurs_verksamhet.png"
+
+[[gallery_item]]
+album = "1"
+image = "Kurs_EST.png"
+
+[[gallery_item]]
+album = "1"
+image = "Kurs_GYF.png"
+caption = "Övning"
+
+[[gallery_item]]
+album = "1"
+image = "Kurs_Kommunikation.png"
+
+[[gallery_item]]
+album = "1"
+image = "Kurs_Means.png"
 
 
 
