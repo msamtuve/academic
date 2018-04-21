@@ -19,5 +19,5 @@ Nedan är två representationer av mentala modeller.
 
 {{< figure src="/img/So_complex.png" title="Komplexa problem - är det en god idé att ge pengar till tiggare?" >}}
 
-
+{{ partial "disqus.html" . }}
 
