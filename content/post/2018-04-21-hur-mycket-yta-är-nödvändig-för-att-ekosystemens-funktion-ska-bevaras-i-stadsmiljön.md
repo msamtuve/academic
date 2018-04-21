@@ -18,7 +18,7 @@ En återkommande fråga i stadsplanering är **"Hur mycket yta, eller hur många
 
 Det korta svaret är att schabloner vore värdefullt men det finns få sådana tillgängliga. Forskning behövs på detta område. Jag tror detta är ett exempel på ett glapp mellan behov som praktiker ser i sin dagliga verksamhet och de forskningsfrågor som prioriteras.
 
-Ett begrepp som beskriver vad som producerar ekosystemtjänster är SPU - service providing units. Med hjälp av detta begrepp kan man diskutera **vad** det är som vi skulle vilja ha en schablon för. Något som *om det ökar så ökar nyttan* av en ekosystemtjänst. 
+Ett begrepp som beskriver vad som producerar ekosystemtjänster är SPU - service providing units. Med hjälp av detta begrepp kan man diskutera **vad** det är som vi skulle vilja ha en schablon för. Något som **om det ökar så ökar nyttan** av en ekosystemtjänst. 
 
 Klart är att för vissa ekosystemtjänster så finns en SPU som skalar linjärt, t.ex. om vegetationsvolymen dubbleras så kan vi färvänta oss att den temperaturreglerande nyttan dubbleras… ungefär. Vilket också betyder att om vi reducerar SPU så kommer detta också att reducera funktionen. Men ökar rekreationsvärdet om parkens yta dubbleras? Eller om antalet parkbänkar dubbleras? Det är inte fullt så enkelt. 
 
