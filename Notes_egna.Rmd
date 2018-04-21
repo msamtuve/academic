@@ -15,8 +15,17 @@ Har fått problem med build.
 
 **Lösning**: Ta bort en html som skapats i min mapp content/project. Skapades när jag gjorde en preview.
 
+## Uppdatera version HUGO 
+nedan visar vilken version HUGO jag har nu.
+```{r}
+blogdown::hugo_version()
+```
 
-# Uppdatera löpande
+## Kommentarer Disqus
+To disable commenting for a specific post, you can add **disable_comments = true** to the post +++ preamble.
+
+
+## Uppdatera löpande
 Nedan är hur jag fick igång det hela. Men hur gör jag nu för att:
 
 - ändra i RStudio
