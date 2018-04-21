@@ -20,7 +20,7 @@ Det korta svaret är att schabloner vore värdefullt men det finns få sådana t
 
 Ett begrepp som beskriver vad som producerar ekosystemtjänster är SPU - service providing units. Med hjälp av detta begrepp kan man diskutera **vad** det är som vi skulle vilja ha en schablon för. Något som **om det ökar så ökar nyttan** av en ekosystemtjänst. 
 
-Klart är att för vissa ekosystemtjänster så finns en SPU som skalar linjärt, t.ex. om vegetationsvolymen dubbleras så kan vi färvänta oss att den temperaturreglerande nyttan dubbleras… ungefär. Vilket också betyder att om vi reducerar SPU så kommer detta också att reducera funktionen. Men ökar rekreationsvärdet om parkens yta dubbleras? Eller om antalet parkbänkar dubbleras? Det är inte fullt så enkelt. 
+Klart är att för vissa ekosystemtjänster så finns en SPU som skalar linjärt, t.ex. om vegetationsvolymen dubbleras så kan vi förvänta oss att den temperaturreglerande nyttan dubbleras… ungefär. Vilket också betyder att om vi reducerar SPU så kommer detta också att reducera funktionen. Men ökar rekreationsvärdet om parkens yta dubbleras? Eller om antalet parkbänkar dubbleras? Det är inte fullt så enkelt. 
 
 - för vissa ekosystemtjänster så ökar/minskar nyttan i proportion med en viss ekologisk struktur, som t.ex. area skogsmark.
 - för vissa ekosystemtjänster finns det "tipping points" för att en viss funktion alls ska uppstå. Vill man åstadkomma ett habitat för spillkråka så måste skogen ha en viss kvalitet och en viss area. Vi får inte 1/2 häckande par om skogen är 200 ha av högsta kvalitet.
