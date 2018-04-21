@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2017-04-13"
+date = "2017-04-20"
 
 # Project title.
 title = "Ekosystemtjänster – att värdera och integrera i planering och beslut"
@@ -24,26 +24,6 @@ album = "1"
 image = "Kurs_SDG.png"
 caption = "EST grunden för SDG"
     
-[[gallery_item]]
-album = "1"
-image = "Kurs_verksamhet.png"
-
-[[gallery_item]]
-album = "1"
-image = "Kurs_EST.png"
-
-[[gallery_item]]
-album = "1"
-image = "Kurs_GYF.png"
-caption = "Övning"
-
-[[gallery_item]]
-album = "1"
-image = "Kurs_Kommunikation.png"
-
-[[gallery_item]]
-album = "1"
-image = "Kurs_Means.png"
 
 
 
