@@ -14,7 +14,7 @@ En återkommande fråga i stadsplanering är **"Hur mycket yta, eller hur många
 
 > Hur mycket yta är nödvändig för att ekosystemens funktion ska bevaras i stadsmiljön? Schabloner: X m2 grönyta har denna effekt på stadsklimatet, tex vore praktiskt för att kunna kommunicera med exploatörer.
 
-**Vilka schabloner känner du till? Och vilka skulle du behöva?** [Låt oss samla schabloner och formulera vilka behov vi ser!](https://goo.gl/forms/Hp2RKYb5r8KzayxI2)
+**Vilka schabloner känner du till? Och vilka skulle du behöva?** Ge dina bidrag till diskussionen på denna länk. [Låt oss samla schabloner och formulera vilka behov vi ser!](https://goo.gl/forms/Hp2RKYb5r8KzayxI2)
 
 Det korta svaret är att schabloner vore värdefullt men det finns få sådana tillgängliga. Forskning behövs på detta område. Jag tror detta är ett exempel på ett glapp mellan behov som praktiker ser i sin dagliga verksamhet och de forskningsfrågor som prioriteras.
 
