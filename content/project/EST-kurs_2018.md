@@ -26,11 +26,11 @@ caption = "EST grunden för SDG"
     
 [[gallery_item]]
 album = "1"
-image = "Kurs_versamhet.png"
+image = "Kurs_verksamhet.png"
 
 [[gallery_item]]
 album = "1"
-image = "Kurs_EST?.png"
+image = "Kurs_EST.png"
 
 [[gallery_item]]
 album = "1"
