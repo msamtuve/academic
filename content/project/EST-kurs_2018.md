@@ -3,10 +3,10 @@
 date = "2017-04-13"
 
 # Project title.
-title = "Frågor och motiv - om ekosystemtjänster 2018"
+title = "Ekosystemtjänster – att värdera och integrera i planering och beslut"
 
 # Project summary to display on homepage.
-summary = "Ett bidrag till en bredare konversation om hållbarhetsfrågor och särskilt om ekosystemtjänster. Svara gärna på dessa frågor."
+summary = "Ett kurs som tar nästa steg, inte en introduktionskurs, och ger fördjupning och praktiska råd baserat på det senaste från forksning och erfarenhet från genomförda projekt i Sverige."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Kurs_schema_2018.png"
