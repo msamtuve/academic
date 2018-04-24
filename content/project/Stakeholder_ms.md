@@ -9,7 +9,7 @@ title = "Stakeholders’ perceptions of GIS-based modelling and visualization of
 summary = "Ett pågående arbete med manus till vetenskaplig artikel. Ett bidrag till hur vi kan bättre kommunicera ekosystemtjänster i planering."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "work.png"
+image_preview = "work_small.png"
 
 # Tags: can be used for filtering projects.
 tags = ["forskning", "ekosystemtjänster", "stadsutveckling", "integrering"]
@@ -26,6 +26,7 @@ Ett arbete sprunget ut EU-projektet [URBES](https://www.mistraurbanfutures.org/e
 Vi har ett manus till sommaren… kanske…
 
 Ur inledningen - draft:
+
 >"Still, a lack of applicable data and appropriate procedures and tools makes it difficult for urban planners and policy makers to assess the impact of alternative land uses on the supply of urban ES (Ahern et al., 2014; Kaczorowska et al., 2015) and to understand interdependencies, trade-offs and synergies between different ES (Hansen and Pauleit, 2014) as well as between urban ES and other development needs and pressures (Apitz, 2012; Haase et al., 2012; Seppelt et al., 2013). 
 
 
