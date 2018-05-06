@@ -5,7 +5,15 @@ date: '2018-01-08'
 output: html_notebook
 ---
 
-testtext
+
+
+# problem med deply maj2018
+har inte ändrat något. vad händer?
+Är det DIsqus? Nu ångrar jag att jag inte skrev bättre anteckningar frä hur jag fick igång disqus.
+
+5:53:18 PM: Building sites …
+5:53:18 PM: ERROR 2018/05/06 15:53:18 Error while rendering "home" in "": template: theme/index.html:1:3: executing "theme/index.html" at <partial "widget_page...>: error calling partial: template: theme/partials/widget_page.html:23:9: executing "theme/partials/widget_page.html" at <partial $widget $par...>: error calling partial: template: theme/partials/widgets/projects.html:66:84: executing "theme/partials/widgets/projects.html" at <delimit .Params.tags...>: error calling delimit: can't iterate over <nil>
+
 
 # problem och lösningar
 Har fått problem med build.
