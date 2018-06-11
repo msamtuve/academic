@@ -29,5 +29,5 @@ Handledare Calluna: Anders Carlsson, Magnus Tuvendal
 Examinator: Pontus Cerin
 ISRN: LIU-IEI-TEK-A–18/03159—SE 2018-06-01
 
-{{< figure src="/img/figur_5.jpg" title= "Argument för förtätning." >}}
-{{< figure src="/img/figur_6.jpg" title= "Argument för grönstruktur i städer." >}}
+{{< figure src="/img/figur_5.png" title= "Argument för förtätning." >}}
+{{< figure src="/img/figur_6.png" title= "Argument för grönstruktur i städer." >}}
