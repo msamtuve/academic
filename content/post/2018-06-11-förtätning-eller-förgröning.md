@@ -4,7 +4,7 @@ author: Magnus Tuvendal
 date: '2018-06-11'
 slug: förtätning-eller-förgröning
 categories: []
-tags:["ekosystemtjänster", "stadsutveckling", "kartläggning", "beslutsfattande"]
+tags: ["ekosystemtjänster", "stadsutveckling", "kartläggning", "beslutsfattande"]
 header:
   caption: 'Översikt över på vilket sätt EST kan komma in i stadsutvecklingsprocessen. M. Bergström och L. Granström.'
   image: 'EST-planering.png'
