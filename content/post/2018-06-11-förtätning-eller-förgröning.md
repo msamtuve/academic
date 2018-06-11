@@ -1,5 +1,5 @@
 ---
-draft = false
+draft: false
 title: Förtätning eller förgröning?
 author: Magnus Tuvendal
 date: '2018-06-11'
