@@ -12,6 +12,7 @@ header:
 ---
 
 I en ny uppsats undersöks hur ekosystemtjänster kan ta plats och berika hur vi kan tänka och agera när vi vill både förtäta och förgröna städer. Arbetet bygger på litteraturstudier och intervjuer med aktörer som arbetar med dessa frågor. Uppsatsen ger en  inblick i hur kommuner och andra aktörer resonerar kring målkonflikter mellan förtätning och utveckling samt bevarande av urban grönstruktur. Inledningsvis formuelrades tre mycket intressanta, och stora, frågor:
+
 1. Hur argumenterar kommuner för och arbetar med förtätning av städer samt hur förhåller sig detta till argumenten och arbetet för utveckling av urban grönstruktur? 
 2. Hur kan ekosystemtjänster vara ett verktyg i den kommunala stadsutvecklingsprocessen för att hantera eventuella målkonflikter och möjliga synergier mellan förtätning och urban grönstruktur? 
 3. Var i stadsutvecklingsprocessen skulle ekosystemtjänstkonceptet kunna tillämpas för att bidra till att hantera eventuella målkonflikter och möjliga synergier mellan för- tätning och urban grönstruktur? 
