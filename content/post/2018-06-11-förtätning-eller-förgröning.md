@@ -1,13 +1,15 @@
-+++
-date = 2014-03-10
+---
 draft = false
-tags = ["jekyll"]
-title = "TEST TEST"
-summary = """
-Learn how to migrate an existing website from Jekyll to Hugo.
-"""
-math = false
-+++
+title: Förtätning eller förgröning?
+author: Magnus Tuvendal
+date: '2018-06-11'
+slug: förtätning-eller-förgröning
+categories: []
+tags: ["ekosystemtjänster", "stadsutveckling", "kartläggning", "beslutsfattande"]
+header:
+  caption: 'Översikt över på vilket sätt EST kan komma in i stadsutvecklingsprocessen. M. Bergström och L. Granström.'
+  image: 'EST-planering.png'
+---
 
 I en ny uppsats undersöks hur ekosystemtjänster kan ta plats och berika hur vi kan tänka och agera när vi vill både förtäta och förgröna städer. Arbetet bygger på litteraturstudier och intervjuer med aktörer som arbetar med dessa frågor. Uppsatsen ger en  inblick i hur kommuner och andra aktörer resonerar kring målkonflikter mellan förtätning och utveckling samt bevarande av urban grönstruktur. Inledningsvis formuelrades tre mycket intressanta, och stora, frågor:
 1. Hur argumenterar kommuner för och arbetar med förtätning av städer samt hur förhåller sig detta till argumenten och arbetet för utveckling av urban grönstruktur? 
