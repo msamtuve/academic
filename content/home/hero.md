@@ -12,7 +12,7 @@ weight = 3
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
-  overlay_color = "#66d9ff"  # An HTML color value. See https://www.w3schools.com/colors/colors_picker.asp
+  overlay_color = "#1ac6ff"  # An HTML color value. See https://www.w3schools.com/colors/colors_picker.asp
   # overlay_img = "headers/scales.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
