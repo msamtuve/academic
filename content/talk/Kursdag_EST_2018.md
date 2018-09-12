@@ -1,13 +1,13 @@
 +++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+date = 2018-09-01T00:00:00  # Schedule page publish date.
 
 title = "Ekosystemtjänster – att värdera och integrera i planering och beslut"
-time_start = 2018-04-19T09:00:00
-time_end = 2018-04-19T16:30:00
+time_start = 2018-10-23T09:00:00
+time_end = 2018-10-23T16:30:00
 abstract = "Kraven på att företag och organisationer ska värdera och ta hänsyn till ekosystemtjänster ökar snabbt – genom myndighetskrav, lagstiftning och inte minst dess centrala roll i Aganda 2030 och de Globala hållbarhetsmålen. Under denna heldagsutbildning får du lära dig hur du kartlägger, mäter och värderar ekosystemtjänster utifrån verktyg, metoder och utredningar och hur resultatet av dessa kan användas i allt från beslutsprocesser till hållbarhetsredovisningar och kommunikation."
 abstract_short = ""
 event = "Kurs"
-event_url = "https://www.aktuellhallbarhet.se/utbildning/kurser/ekosystemtjanster-synliggora-mata-vardera/"
+event_url = "https://www.aktuellhallbarhet.se/utbildning/kurser/ekosystemtjanster-att-vardera-och-integrera-planering-och-beslut/"
 location = "Stockholm, Sverige"
 
 # Is this a selected talk? (true/false)
