@@ -14,7 +14,7 @@ weight = 3
 [header]
   overlay_color = "#66ccff"  # An HTML color value.
   overlay_img = "headers/scales.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
