@@ -23,6 +23,8 @@ Detta arbetet avser inte att vederlägga en bestämd hypotes eller uppfattning u
 
 I rapporten presenteras tre förslag, till stöd för att arkitekter ska kunna integrera ekosystemtjänster i sitt verksamhet. Dessa förslag kan förverkligas i en kombination av akademisk forskning och praktiknära projekt. Rapportens förslag ska ses som ”en primer” för att väcka frågor, ett arbete med syfte att inspirera till att steg tas för att arbeta med de utmaningar som arkitekter idag står inför i sitt arbete med att konkretisera hållbar stadsutveckling. Det tre förslagen relaterar till hur uppdrag formuleras, till hur stadens gröna strukturer och ekosystemtjänster kan gestaltas och till hur frågan hur gröna strukturer och ekosystemtjänster ska förvaltas.
 
+Här hittar du rapporten: [Från Policy till Praktik - Utmaningar för arkitekter att integrera ekosystemtjänster](https://drive.google.com/open?id=1EB_ng9Z86sAnhH5lOAYRL1_QmVVfUwfv)
+
 ## Tre utmaningar funna i genomförda intervjuer & tre möjliga lösningar
 
 1. **Arkitekter har för trubbigt språk för stadens gröna strukturer.** PBL har en binär uppdelning i natur och park. *Nu är det så att antingen gör man ett reservat eller en park…*. 
