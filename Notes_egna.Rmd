@@ -7,7 +7,11 @@ output: html_notebook
 
 
 
-# problem med deply maj2018
+# Logg
+## Ny post.
+
+
+## problem med deploy maj2018
 har inte ändrat något. vad händer?
 Är det DIsqus? Nu ångrar jag att jag inte skrev bättre anteckningar frä hur jag fick igång disqus.
 

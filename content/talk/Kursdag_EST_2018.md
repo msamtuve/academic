@@ -2,8 +2,8 @@
 date = 2018-09-01T00:00:00  # Schedule page publish date.
 
 title = "Ekosystemtjänster – att värdera och integrera i planering och beslut"
-time_start = 2018-10-23T09:00:00
-time_end = 2018-10-23T16:30:00
+time_start = 2019-01-15T09:00:00
+time_end = 2019-01-15T16:30:00
 abstract = "Kraven på att företag och organisationer ska värdera och ta hänsyn till ekosystemtjänster ökar snabbt – genom myndighetskrav, lagstiftning och inte minst dess centrala roll i Aganda 2030 och de Globala hållbarhetsmålen. Under denna heldagsutbildning får du lära dig hur du kartlägger, mäter och värderar ekosystemtjänster utifrån verktyg, metoder och utredningar och hur resultatet av dessa kan användas i allt från beslutsprocesser till hållbarhetsredovisningar och kommunikation."
 abstract_short = ""
 event = "Kurs"
