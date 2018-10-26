@@ -8,7 +8,7 @@ abstract = "En workshop med stort deltagande från Pajala kommun och från Kauni
 
 abstract_short = ""
 event = "Workshop"
-event_url = 
+event_url = ""
 location = "Pajala, Sverige"
 
 # Is this a selected talk? (true/false)
