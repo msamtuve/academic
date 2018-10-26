@@ -33,8 +33,9 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "Norrbotten_WS1.jpg"
+# [header]
+# image = "Norrbotten_WS1.jpg"
 # caption = "My caption :smile:"
 
 +++
+{{< figure src="/img/Norrbotten_WS1.jpg" title= "Preliminärt program" >}}
