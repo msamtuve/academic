@@ -22,7 +22,8 @@ tags = ["ekosystemtjänster","samverkan", "hållbarhet", "stadsutveckling", "int
 
 
 +++
-Detta projekt pågår till sommaren 2019. Calluna och Geografiska informationsbyrån driver projektet. Mer om detta kommer allt efter projektet löper. Vi siktar på ett enkelt och snabbt verktyg för tidiga skeden i stadutvecklingsprocessen: 
+Detta projekt pågår till sommaren 2019. Calluna och Geografiska informationsbyrån driver projektet. Mer om detta kommer allt efter projektet löper. Vi siktar på ett enkelt och snabbt verktyg för tidiga skeden i stadutvecklingsprocessen:
+
     * Ett verktyg för experter, arkitekter, byggare och allmänhet. Ladda hem data till egna GIS-analyser eller arbetet vidare i CAD.
     * Heltäckande - stadens alla träd.
     * Ett levande dataset - vi samlar de bästa data om stadens träd som finns. Vi undersöker "crowd sourcing".
