@@ -8,7 +8,7 @@ abstract = "Vi tydliggör tillsammans sambandet mellan ekosystemtjänster som ti
 
 abstract_short = ""
 event = "Workshop"
-event_url = 
+event_url = ""
 location = "Luleå, Sverige"
 
 # Is this a selected talk? (true/false)
