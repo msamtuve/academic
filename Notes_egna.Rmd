@@ -13,13 +13,15 @@ Ett år har gått. Ett helt år. Jag har anteckningar här ndan men också i Not
 
 Unde årets första månader har jag några saker jag vill ska fungera.
 
-1. **Engelska**. Detta är prioriterat. Stärre publik. Har också nu närmat mig internationella kunder. Vill närma mig internationella kunder. Vill arbeteta på den globala arenan.
+1. **Engelska**. Detta är prioriterat. Större publik. Har också nu närmat mig internationella kunder. Vill närma mig internationella kunder. Vill arbeteta på den globala arenan. https://sourcethemes.com/academic/docs/language/
 2. **Lägga in Posts löpande**. Det är endast i posta som Disquss fungerar. Jag har lagt in flera projekt och det bra men Posts är diskussion och inte ett klassist cv i lika häg grad.
 3. **Video**. Vill lägga över min undervisning i videoformat i högre grad. I jämförelse är Aktuell Hållbarhet mindre intressant. Det är bra reklam, viss trovärdighet men det är allt. Publiken är liten och inkomsterna små med endast 1-2 kursdagar per år. Sedan är fördelning av intäkter helt vriden. Med 20 betalande drar man in över 100000 kr och av dessa får vi/jag 25 kkr. Bättre att göra detta helt själv. Kanske rent av starta ett konkurrerande företag för föredrag på webben på svenska. - likt Big Think.
 
+Sedan vill jag uppdatera Hugo Academic. … utan att allt kraschar. Så hur gör man uppdateringar? https://sourcethemes.com/academic/updates/v3.3.0/
 
+Har nu suttit en stund. Flera timmar faktiskt. Huvudvärk. Behöver nya terminalglasögon? Har gjort en del smårre korrektur. Läst på om uppdateringar. Vet inte om jag ska uppdatera först och sedan göra multilingual. jag antar det. Jo - det är nog bäst. Men det är en helg - eller i alla fall ett fler-timmars-pass. Inget jag borde göra nu med huvudvärk.
 
-
+> Beslut: Nästa session med bloggdown är att uppdatera till senaste version.
 
 ## problem med deploy maj2018
 har inte ändrat något. vad händer?
