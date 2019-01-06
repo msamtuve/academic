@@ -1,19 +1,29 @@
 ---
 title: "Anteckningar rörande blogdown"
-author: "Magnus"
+author: "Magnus Tuvendal"
 date: '2018-01-08'
 output: html_notebook
 ---
 
 
-
 # Logg
-## Ny post.
+
+## jan 2019
+Ett år har gått. Ett helt år. Jag har anteckningar här ndan men också i Notes rörande denna blogg. Inte helt städat och strukturerat. 
+
+Unde årets första månader har jag några saker jag vill ska fungera.
+
+1. **Engelska**. Detta är prioriterat. Stärre publik. Har också nu närmat mig internationella kunder. Vill närma mig internationella kunder. Vill arbeteta på den globala arenan.
+2. **Lägga in Posts löpande**. Det är endast i posta som Disquss fungerar. Jag har lagt in flera projekt och det bra men Posts är diskussion och inte ett klassist cv i lika häg grad.
+3. **Video**. Vill lägga över min undervisning i videoformat i högre grad. I jämförelse är Aktuell Hållbarhet mindre intressant. Det är bra reklam, viss trovärdighet men det är allt. Publiken är liten och inkomsterna små med endast 1-2 kursdagar per år. Sedan är fördelning av intäkter helt vriden. Med 20 betalande drar man in över 100000 kr och av dessa får vi/jag 25 kkr. Bättre att göra detta helt själv. Kanske rent av starta ett konkurrerande företag för föredrag på webben på svenska. - likt Big Think.
+
+
+
 
 
 ## problem med deploy maj2018
 har inte ändrat något. vad händer?
-Är det DIsqus? Nu ångrar jag att jag inte skrev bättre anteckningar frä hur jag fick igång disqus.
+Är det Disqus? Nu ångrar jag att jag inte skrev bättre anteckningar för hur jag fick igång disqus.
 
 När man får error 255 så rekomenderas att se till att samma version av HUGO används lokalt som av netlify.
 - Jag fixar det. Har lokalt 0.37.1 och ändrar till det på Netlify.
