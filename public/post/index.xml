@@ -6,11 +6,53 @@
     <description>Recent content in Posts on Magnus Tuvendal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 25 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018 Magnus Tuvendal</copyright>
+    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Att se stadens träd och deras värden</title>
+      <link>/post/hur-arkitekter-kan-bli-b%C3%A4ttre-p%C3%A5-att-arbeta-med-stadsgr%C3%B6nska-och-ekosystemtj%C3%A4nster/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hur-arkitekter-kan-bli-b%C3%A4ttre-p%C3%A5-att-arbeta-med-stadsgr%C3%B6nska-och-ekosystemtj%C3%A4nster/</guid>
+      <description>Här hittar du rapporten: Från Policy till Praktik - Utmaningar för arkitekter att integrera ekosystemtjänster
+   Argument för förtätning.     Argument för grönstruktur i städer.   </description>
+    </item>
+    
+    <item>
+      <title>Förtätning eller förgröning?</title>
+      <link>/post/f%C3%B6rt%C3%A4tning-eller-f%C3%B6rgr%C3%B6ning/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/f%C3%B6rt%C3%A4tning-eller-f%C3%B6rgr%C3%B6ning/</guid>
+      <description>I en ny uppsats undersöks hur ekosystemtjänster kan ta plats och berika hur vi kan tänka och agera när vi vill både förtäta och förgröna städer. Arbetet bygger på litteraturstudier och intervjuer med aktörer som arbetar med dessa frågor. Uppsatsen ger en inblick i hur kommuner och andra aktörer resonerar kring målkonflikter mellan förtätning och utveckling samt bevarande av urban grönstruktur. Inledningsvis formulerades tre mycket intressanta, och stora, frågor:
+ Hur argumenterar kommuner för och arbetar med förtätning av städer samt hur förhåller sig detta till argumenten och arbetet för utveckling av urban grönstruktur?</description>
+    </item>
+    
+    <item>
+      <title>Hur mycket yta är nödvändig för att ekosystemens funktion ska bevaras i stadsmiljön?</title>
+      <link>/post/hur-mycket-yta-%C3%A4r-n%C3%B6dv%C3%A4ndig-f%C3%B6r-att-ekosystemens-funktion-ska-bevaras-i-stadsmilj%C3%B6n/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hur-mycket-yta-%C3%A4r-n%C3%B6dv%C3%A4ndig-f%C3%B6r-att-ekosystemens-funktion-ska-bevaras-i-stadsmilj%C3%B6n/</guid>
+      <description>En återkommande fråga i stadsplanering är &amp;ldquo;Hur mycket yta, eller hur många träd, behöver vi spara?&amp;rdquo;. En viktig fråga men inte lätt att besvara.
+ Hur mycket yta är nödvändig för att ekosystemens funktion ska bevaras i stadsmiljön? Schabloner: X m2 grönyta har denna effekt på stadsklimatet, tex vore praktiskt för att kunna kommunicera med exploatörer.
+ Vilka schabloner känner du till? Och vilka skulle du behöva? Ge dina bidrag till diskussionen på denna länk.</description>
+    </item>
+    
+    <item>
+      <title>Inte facebook</title>
+      <link>/post/ny-site/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ny-site/</guid>
+      <description>Med start i mars 2018 kommer jag lägga ut projekt m.m. En site för publisering och diskussion. Siten är byggd med RStudio&amp;gt;Bloggdown&amp;gt;Github&amp;gt;Netlify.
+Gör detta som ett led i att återgå till basics: egna fristående och oberoende websidor som inte föder de som vill äta upp nätet (läs facebook).
+För övrigt anser jag att inga svenska myndigheter bör använda Facebook (jag har tagit denna diskussion med några kommuner och myndigheter men de svarar samfällt att de &amp;ldquo;måste engagera sig med medborgare där de finns&amp;rdquo;).</description>
+    </item>
     
     <item>
       <title>Fem min systemtänkande</title>
@@ -23,16 +65,6 @@ Kvalitativa eller semikvalitativa modeller har förmågan att göra mentala mode
 Nedan är två representationer av mentala modeller.
 En modell att leka med.
   Komplexa problem - är det en god idé att ge pengar till tiggare?</description>
-    </item>
-    
-    <item>
-      <title>Inte facebook</title>
-      <link>/post/ny-site/</link>
-      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/ny-site/</guid>
-      <description>Under mars kommer jag lägga ut projekt m.m. En site för publisering och diskussion. Siten är byggd med RStudio&amp;gt;Bloggdown&amp;gt;Github&amp;gt;Netlify.
-Gör detta som ett led i att återgå till basics: egna fristående och oberoende websidor som inte föder de som vill äta upp nätet (läs facebook).</description>
     </item>
     
   </channel>

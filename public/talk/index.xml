@@ -6,7 +6,7 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Magnus Tuvendal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018 Magnus Tuvendal</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
@@ -15,9 +15,36 @@
     <item>
       <title>Ekosystemtjänster – att värdera och integrera i planering och beslut</title>
       <link>/talk/kursdag_est_2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>/talk/kursdag_est_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaunis Iron som motor för ett mer hållbart Pajala</title>
+      <link>/talk/workshop_pajala_2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/workshop_pajala_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop 1 - Ekosystemtjänster och de areella näringarna i Norrbottens län</title>
+      <link>/talk/workshop_norrbotten-est_2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/workshop_norrbotten-est_2018/</guid>
+      <description>   Preliminärt program   </description>
+    </item>
+    
+    <item>
+      <title>Kan naturen bidra till att klimatsäkra fastighetsbeståndet?</title>
+      <link>/talk/est_fastigheter_2018/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/est_fastigheter_2018/</guid>
       <description></description>
     </item>
     
