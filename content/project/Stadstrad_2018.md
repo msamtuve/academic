@@ -30,7 +30,7 @@ Detta projekt pågår till sommaren 2019. Calluna och Geografiska informationsby
     * Trädens värden - grön infrastruktur, ekosystemtjänster och andra värden.
     * Enkelt och snabbt verktyg för tidiga skeden i stadutvecklingsprocessen
 
-> Är du intresserad av att bidra i detta projekt så är du välkommen att ta en kontakt!
+> Är du intresserad av att bidra i detta projekt så är du välkommen att ta en kontakt! Du når oss [här.](https://goo.gl/forms/gYjX75PdJ27B6utf1)
 
 {{< figure src="/img/trees_gi_heatmap.jpg" title="En prototop på hur grön infrastruktur kan visualiseras." >}}
 
