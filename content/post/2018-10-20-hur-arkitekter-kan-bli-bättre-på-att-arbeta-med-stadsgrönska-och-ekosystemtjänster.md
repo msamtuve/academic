@@ -5,9 +5,7 @@ author: Magnus Tuvendal
 date: '2018-10-20'
 slug: hur-arkitekter-kan-bli-bättre-på-att-arbeta-med-stadsgrönska-och-ekosystemtjänster
 categories: []
-tags:
-  - ekosystemtjänster
-  - stadsutveckling
+tags:["ekosystemtjänster", "stadsutveckling", "arkitekt"]
 header:
   caption: ''
   image: ''

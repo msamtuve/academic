@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2018-03-20
 
-title = "Hållbarhet = bäst före: 2030"
+title = "Hållbarhet = bäst före: 2030 (10 viktiga år nu…)"
 
 # Order that this section will appear in.
 weight = 3
