@@ -1,3 +1,6 @@
+
+<!-- rnb-text-begin -->
+
 ---
 title: "Anteckningar rörande blogdown"
 author: "Magnus Tuvendal"
@@ -27,9 +30,26 @@ Observera att jag kommer då också behövs uppdatera den version av Hugo jag an
 
 ### Serve site
 Med nedan kod, som också finns i **Addins** för bloggdown, så publiceras siten lokalt. Kan sena öppnas i webbrowser.
-```{r}
+
+<!-- rnb-text-end -->
+
+
+<!-- rnb-chunk-begin -->
+
+
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuYmxvZ2Rvd246OjpzZXJ2ZV9zaXRlKClcbmBgYCJ9 -->
+
+```r
 blogdown:::serve_site()
 ```
+
+<!-- rnb-source-end -->
+
+<!-- rnb-chunk-end -->
+
+
+<!-- rnb-text-begin -->
+
 
 
 ## problem med deploy maj2018
@@ -58,9 +78,26 @@ Har fått problem med build.
 
 ## Uppdatera version HUGO 
 nedan visar vilken version HUGO jag har nu.
-```{r}
+
+<!-- rnb-text-end -->
+
+
+<!-- rnb-chunk-begin -->
+
+
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuYmxvZ2Rvd246Omh1Z29fdmVyc2lvbigpXG5gYGAifQ== -->
+
+```r
 blogdown::hugo_version()
 ```
+
+<!-- rnb-source-end -->
+
+<!-- rnb-chunk-end -->
+
+
+<!-- rnb-text-begin -->
+
 
 ## Kommentarer Disqus
 To disable commenting for a specific post, you can add **disable_comments = true** to the post +++ preamble.
@@ -73,9 +110,26 @@ Nedan är hur jag fick igång det hela. Men hur gör jag nu för att:
 - uppdatera GitHib
 - Se ny version på webben via Netlify
 
-```{r}
+
+<!-- rnb-text-end -->
+
+
+<!-- rnb-chunk-begin -->
+
+
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxubGlicmFyeSgpXG5gYGAifQ== -->
+
+```r
 library()
 ```
+
+<!-- rnb-source-end -->
+
+<!-- rnb-chunk-end -->
+
+
+<!-- rnb-text-begin -->
+
 
 Tror man måste göra så här:
 
@@ -135,20 +189,54 @@ bla, bla...
 
 
 # Getting started
-```{r}
+
+<!-- rnb-text-end -->
+
+
+<!-- rnb-chunk-begin -->
+
+
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuaW5zdGFsbC5wYWNrYWdlcyhcImJsb2dkb3duXCIpXG5ibG9nZG93bjo6aW5zdGFsbF9odWdvKClcbmJsb2dkb3duOjp1cGRhdGVfaHVnbygpXG5gYGAifQ== -->
+
+```r
 install.packages("blogdown")
 blogdown::install_hugo()
 blogdown::update_hugo()
 ```
+
+<!-- rnb-source-end -->
+
+<!-- rnb-chunk-end -->
+
+
+<!-- rnb-text-begin -->
+
 
 OK. Nu är jag igång.
 
 ## Preview site
 Jag kan skapa en ny site med *blogdown::new_site()*. Men det vill jag inte nu.
 Hur gör jag för att öppna/ladda en existerande site jag redan gjort?
-```{r}
+
+<!-- rnb-text-end -->
+
+
+<!-- rnb-chunk-begin -->
+
+
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuYmxvZ2Rvd246OnNlcnZlX3NpdGUoKVxuYGBgIn0= -->
+
+```r
 blogdown::serve_site()
 ```
+
+<!-- rnb-source-end -->
+
+<!-- rnb-chunk-end -->
+
+
+<!-- rnb-text-begin -->
+
 Nu har min site publiserat lokalt.
 
 Om inte siten uppdaderas automatisk när jag sparar filen i Rstudio så kolla: options(servr.daemon = TRUE).
@@ -195,9 +283,26 @@ Kan testa med **git config --global --list**:
 >MacBookPro-47:Academic_blogdown magtuv$ 
 
 From R, you can check if you already have an SSH key-pair by running:
-```{r}
+
+<!-- rnb-text-end -->
+
+
+<!-- rnb-chunk-begin -->
+
+
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZmlsZS5leGlzdHMoXCJ+Ly5zc2gvaWRfcnNhLnB1YlwiKVxuYGBgIn0= -->
+
+```r
 file.exists("~/.ssh/id_rsa.pub")
 ```
+
+<!-- rnb-source-end -->
+
+<!-- rnb-chunk-end -->
+
+
+<!-- rnb-text-begin -->
+
 ### Create a local Git repository
 Problem - jag kan inte välja i Tools/Project options/Git/versions control
 Här finns bara alternativet **none**- Ska här välja **Git**.
@@ -223,9 +328,26 @@ Väljer:
 Och NU är kopplingen mellan mitt project i RStudio och Github etablerad.
 
 ### Setting global options in your R startup profile file
-```{r}
+
+<!-- rnb-text-end -->
+
+
+<!-- rnb-chunk-begin -->
+
+
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZmlsZS5lZGl0KFwiLlJwcm9maWxlXCIpXG5gYGAifQ== -->
+
+```r
 file.edit(".Rprofile")
 ```
+
+<!-- rnb-source-end -->
+
+<!-- rnb-chunk-end -->
+
+
+<!-- rnb-text-begin -->
+
 Nu har jag gjort det.
 Detta initieras varje gång jag startar detta projekt: 
 >options(servr.daemon = TRUE, 
@@ -241,9 +363,65 @@ Har nu kommit fram till: https://notes.peter-baumgartner.net/tutorial/blogdown-t
 ### Titta på min site lokalt
 Hmm - nu fungerar inte detta.
 Jo - men var tvungen att göra en refresh.
-```{r}
+
+<!-- rnb-text-end -->
+
+
+<!-- rnb-chunk-begin -->
+
+
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuYmxvZ2Rvd246OnNlcnZlX3NpdGUoKVxuXG5gYGAifQ== -->
+
+```r
 blogdown::serve_site()
+
 ```
+
+<!-- rnb-source-end -->
+
+<!-- rnb-output-begin eyJkYXRhIjoiXHUwMDFiWz8yNWxCdWlsZGluZyBzaXRlcyDigKYgRVJST1IgMjAxOC8wMy8yMCAxMzozMTowNSBlcnJvciBwcm9jZXNzaW5nIHNob3J0Y29kZSBcIl9pbnRlcm5hbC9zaG9ydGNvZGVzL3JlZi5odG1sXCIgZm9yIHBhZ2UgXCJwb3N0L2dldHRpbmctc3RhcnRlZC5tZFwiOiB0ZW1wbGF0ZTogX2ludGVybmFsL3Nob3J0Y29kZXMvcmVmLmh0bWw6MTo3MzogZXhlY3V0aW5nIFwiX2ludGVybmFsL3Nob3J0Y29kZXMvcmVmLmh0bWxcIiBhdCA8cmVmIC5QYWdlICguR2V0IDApPjogZXJyb3IgY2FsbGluZyByZWY6IE5vIHBhZ2UgZm91bmQgd2l0aCBwYXRoIG9yIGxvZ2ljYWwgbmFtZSBcInBvc3Qvd2lkZ2V0cy5tZFwiLlxuRVJST1IgMjAxOC8wMy8yMCAxMzozMTowNSBlcnJvciBwcm9jZXNzaW5nIHNob3J0Y29kZSBcIl9pbnRlcm5hbC9zaG9ydGNvZGVzL3JlZi5odG1sXCIgZm9yIHBhZ2UgXCJwb3N0L2dldHRpbmctc3RhcnRlZC5tZFwiOiB0ZW1wbGF0ZTogX2ludGVybmFsL3Nob3J0Y29kZXMvcmVmLmh0bWw6MTo3MzogZXhlY3V0aW5nIFwiX2ludGVybmFsL3Nob3J0Y29kZXMvcmVmLmh0bWxcIiBhdCA8cmVmIC5QYWdlICguR2V0IDApPjogZXJyb3IgY2FsbGluZyByZWY6IE5vIHBhZ2UgZm91bmQgd2l0aCBwYXRoIG9yIGxvZ2ljYWwgbmFtZSBcInBvc3QvbWFuYWdpbmctY29udGVudC5tZFwiLlxuRVJST1IgMjAxOC8wMy8yMCAxMzozMTowNSBlcnJvciBwcm9jZXNzaW5nIHNob3J0Y29kZSBcIl9pbnRlcm5hbC9zaG9ydGNvZGVzL3JlZi5odG1sXCIgZm9yIHBhZ2UgXCJwb3N0L2dldHRpbmctc3RhcnRlZC5tZFwiOiB0ZW1wbGF0ZTogX2ludGVybmFsL3Nob3J0Y29kZXMvcmVmLmh0bWw6MTo3MzogZXhlY3V0aW5nIFwiX2ludGVybmFsL3Nob3J0Y29kZXMvcmVmLmh0bWxcIiBhdCA8cmVmIC5QYWdlICguR2V0IDApPjogZXJyb3IgY2FsbGluZyByZWY6IE5vIHBhZ2UgZm91bmQgd2l0aCBwYXRoIG9yIGxvZ2ljYWwgbmFtZSBcInBvc3QvbWFuYWdpbmctY29udGVudC5tZFwiLlxuRVJST1IgMjAxOC8wMy8yMCAxMzozMTowNSBlcnJvciBwcm9jZXNzaW5nIHNob3J0Y29kZSBcIl9pbnRlcm5hbC9zaG9ydGNvZGVzL3JlZi5odG1sXCIgZm9yIHBhZ2UgXCJwb3N0L2dldHRpbmctc3RhcnRlZC5tZFwiOiB0ZW1wbGF0ZTogX2ludGVybmFsL3Nob3J0Y29kZXMvcmVmLmh0bWw6MTo3MzogZXhlY3V0aW5nIFwiX2ludGVybmFsL3Nob3J0Y29kZXMvcmVmLmh0bWxcIiBhdCA8cmVmIC5QYWdlICguR2V0IDApPjogZXJyb3IgY2FsbGluZyByZWY6IE5vIHBhZ2UgZm91bmQgd2l0aCBwYXRoIG9yIGxvZ2ljYWwgbmFtZSBcInBvc3Qvd3JpdGluZy1tYXJrZG93bi1sYXRleC5tZFwiLlxuXHUwMDFiWz8yNWhcblx1MDAxYltLXG4gICAgICAgICAgICAgICAgICAgfCBFTiAgXG4rLS0tLS0tLS0tLS0tLS0tLS0tKy0tLS0rXG4gIFBhZ2VzICAgICAgICAgICAgfCAyNSAgXG4gIFBhZ2luYXRvciBwYWdlcyAgfCAgMCAgXG4gIE5vbi1wYWdlIGZpbGVzICAgfCAgMCAgXG4gIFN0YXRpYyBmaWxlcyAgICAgfCAyMCAgXG4gIFByb2Nlc3NlZCBpbWFnZXMgfCAgMCAgXG4gIEFsaWFzZXMgICAgICAgICAgfCAgOCAgXG4gIFNpdGVtYXBzICAgICAgICAgfCAgMSAgXG4gIENsZWFuZWQgICAgICAgICAgfCAgMCAgXG5cblRvdGFsIGluIDkyIG1zXG4ifQ== -->
+
+```
+[?25lBuilding sites … ERROR 2018/03/20 13:31:05 error processing shortcode "_internal/shortcodes/ref.html" for page "post/getting-started.md": template: _internal/shortcodes/ref.html:1:73: executing "_internal/shortcodes/ref.html" at <ref .Page (.Get 0)>: error calling ref: No page found with path or logical name "post/widgets.md".
+ERROR 2018/03/20 13:31:05 error processing shortcode "_internal/shortcodes/ref.html" for page "post/getting-started.md": template: _internal/shortcodes/ref.html:1:73: executing "_internal/shortcodes/ref.html" at <ref .Page (.Get 0)>: error calling ref: No page found with path or logical name "post/managing-content.md".
+ERROR 2018/03/20 13:31:05 error processing shortcode "_internal/shortcodes/ref.html" for page "post/getting-started.md": template: _internal/shortcodes/ref.html:1:73: executing "_internal/shortcodes/ref.html" at <ref .Page (.Get 0)>: error calling ref: No page found with path or logical name "post/managing-content.md".
+ERROR 2018/03/20 13:31:05 error processing shortcode "_internal/shortcodes/ref.html" for page "post/getting-started.md": template: _internal/shortcodes/ref.html:1:73: executing "_internal/shortcodes/ref.html" at <ref .Page (.Get 0)>: error calling ref: No page found with path or logical name "post/writing-markdown-latex.md".
+[?25h
+[K
+                   | EN  
++------------------+----+
+  Pages            | 25  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 20  
+  Processed images |  0  
+  Aliases          |  8  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 92 ms
+```
+
+
+
+<!-- rnb-output-end -->
+
+<!-- rnb-output-begin eyJkYXRhIjoiU2VydmluZyB0aGUgZGlyZWN0b3J5IC9Vc2Vycy9tYWd0dXYvQ2xvdWRTdGF0aW9uL0NhbGx1bmFfY2xvdWRzdGF0aW9uL1IvQWNhZGVtaWNfYmxvZ2Rvd24gYXQgaHR0cDovLzEyNy4wLjAuMTo1Mzk0XG5UbyBzdG9wIHRoZSBzZXJ2ZXIsIHJ1biBzZXJ2cjo6ZGFlbW9uX3N0b3AoXCI0NTM5OTUxOTM2XCIpIG9yIHJlc3RhcnQgeW91ciBSIHNlc3Npb25cbiJ9 -->
+
+```
+Serving the directory /Users/magtuv/CloudStation/Calluna_cloudstation/R/Academic_blogdown at http://127.0.0.1:5394
+To stop the server, run servr::daemon_stop("4539951936") or restart your R session
+```
+
+
+
+<!-- rnb-output-end -->
+
+<!-- rnb-chunk-end -->
+
+
+<!-- rnb-text-begin -->
+
 
 ## .gitignore
 Öppnar .gitignore. Ligger bland mina filer. 
@@ -267,3 +445,6 @@ OK - Netlify jobbar men siten blir inte publiserad.
 Ändrar till HUGO 0.37.
 
 # Site is live!
+
+<!-- rnb-text-end -->
+
