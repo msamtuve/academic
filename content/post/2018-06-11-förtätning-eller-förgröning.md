@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Förtätning eller förgröning?
+title: Förtätning eller förgröning
 author: Magnus Tuvendal
 date: '2018-06-11'
 slug: förtätning-eller-förgröning
